@@ -1,0 +1,26 @@
+Report_Date,Route,Location,Incident_Description,Incident_Code,Min_Delay,Min_Gap,Source_File
+2016-08-19,501,Queen/Broadview,Held By,,12.0,4216.0,ttc-streetcar-delay-data-2016.xlsx
+2015-06-05,501,Queen at Lee,Held By,,174.0,1790.0,ttc-streetcar-delay-data-2015.xlsx
+2020-04-09,705,CNE Loop,Mechanical,,1294.0,1304.0,ttc-streetcar-delay-data-2020.xlsx
+2020-04-16,504,KING AND SPADINA,Diversion,,1294.0,1304.0,ttc-streetcar-delay-data-2020.xlsx
+2017-05-02,504,Spadina to church on King,Diversion,,1185.0,1190.0,ttc-streetcar-delay-data-2017.xlsx
+2020-02-02,504,CHURCH AND KING,Diversion,,1128.0,1138.0,ttc-streetcar-delay-data-2020.xlsx
+2017-05-02,514,King & Church,Diversion,,1125.0,1130.0,ttc-streetcar-delay-data-2017.xlsx
+2017-02-14,512,St Clair/Yonge,Investigation,,1020.0,1024.0,ttc-streetcar-delay-data-2017.xlsx
+2016-12-25,501,Queen and Coxwell,General Delay,,1008.0,1014.0,ttc-streetcar-delay-data-2016.xlsx
+2014-06-07,505,Dundas  and Ossington,Diversion,,999.0,999.0,ttc-streetcar-delay-data-2014.xlsx
+2018-03-05,501,Queen and Kingston Rd,Diversion,,992.0,999.0,ttc-streetcar-delay-data-2018.xlsx
+2018-03-11,506,Parkside/Bloor,Diversion,,989.0,999.0,ttc-streetcar-delay-data-2018.xlsx
+2019-03-17,304,King and  Berkeley,Held By,,999.0,999.0,ttc-streetcar-delay-data-2019.xlsx
+2019-12-06,506,Gerrard and Sackville,Diversion,,996.0,999.0,ttc-streetcar-delay-data-2019.xlsx
+2020-02-01,510,King and Yonge,Diversion,,999.0,999.0,ttc-streetcar-delay-data-2020.xlsx
+2020-06-04,501,Queen St E and Sumach Ave,Emergency Services,,999.0,999.0,ttc-streetcar-delay-data-2020.xlsx
+2026-03-10,504 KING,KING AND BERKELEY,,MFDV,999.0,999.0,TTC Streetcar Delay Data since 2025.xml
+2021-08-08,510,SPADINA AND CECIL,Investigation,,981.0,991.0,ttc-streetcar-delay-data-2021.xlsx
+2022-02-14,510,UNION TUNNEL,Held By,,980.0,990.0,ttc-streetcar-delay-data-2022.xlsx
+2023-06-12,506,VICTORIA PARK STATION,Diversion,,960.0,968.0,ttc-streetcar-delay-data-2023.xlsx
+2014-09-06,506,Parliament and Gerrard,Diversion,,960.0,967.0,ttc-streetcar-delay-data-2014.xlsx
+2014-07-27,501,Queen and Woodbine,Diversion,,953.0,964.0,ttc-streetcar-delay-data-2014.xlsx
+2023-06-06,506,COXWELL AND LOWER GERR,Diversion,,948.0,956.0,ttc-streetcar-delay-data-2023.xlsx
+2023-06-06,506,VICTORIA PARK STATION,Diversion,,948.0,956.0,ttc-streetcar-delay-data-2023.xlsx
+2021-05-26,504,KING AND BATHURST,General Delay,,944.0,954.0,ttc-streetcar-delay-data-2021.xlsx

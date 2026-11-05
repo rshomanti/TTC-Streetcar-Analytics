@@ -1,0 +1,725 @@
+Record_ID,Report_Date,Route,Report_Time,Day_of_Week,Location,Incident_Code,Incident_Description,Incident_ID,Min_Delay,Min_Gap,Direction,Vehicle_ID,Data_Period,Source_File,Source_Sheet,count,Year
+HIST-00000916,2014-03-12,501,15:03:00,Wednesday,Humber Loop Tunnel,,Held By,,336.0,455.0,B/W,4205.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Mar 2014,,2014
+HIST-00001319,2014-03-19,501,15:03:00,Wednesday,Lakeshore and Legion,,Emergency Services,,338.0,349.0,B/W,4219.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Mar 2014,,2014
+HIST-00001894,2014-04-04,506,05:40:00,Friday,Carlton and Parliament,,Emergency Services,,520.0,0.0,B/W,4041.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Apr 2014,,2014
+HIST-00002666,2014-04-23,505,18:04:00,Wednesday,Dundas and Kensington,,Held By,,258.0,264.0,W/B,4127.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Apr 2014,,2014
+HIST-00002700,2014-04-24,506,23:45:00,Thursday,Main Station - Coxwell,,Diversion,,315.0,345.0,B/W,,Historical,ttc-streetcar-delay-data-2014.xlsx,Apr 2014,,2014
+HIST-00002780,2014-04-27,509,12:40:00,Sunday,Lakeshore @ Fort York,,Diversion,,240.0,245.0,E/B,7693.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Apr 2014,,2014
+HIST-00003073,2014-05-04,511,08:52:00,Sunday,Bathurst Route,,Diversion,,240.0,245.0,B/W,,Historical,ttc-streetcar-delay-data-2014.xlsx,May 2014,,2014
+HIST-00004161,2014-06-07,505,07:43:00,Saturday,Dundas  and Ossington,,Diversion,,999.0,999.0,W/B,4021.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00004170,2014-06-07,512,14:15:00,Saturday,St Clair and Russell Hill Rd,,Investigation,,246.0,250.0,E/B,4137.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00004424,2014-06-13,510,20:30:00,Friday,Spadina and Queens Quay,,Emergency Services,,354.0,0.0,S/B,7832.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00004429,2014-06-14,506,05:36:00,Saturday,Coxwell and Upper Gerrard,,Diversion,,480.0,485.0,B/W,4099.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00004544,2014-06-17,505,12:13:00,Tuesday,Dundas and Sterling,,Held By,,260.0,265.0,E/B,4089.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00004545,2014-06-17,506,12:16:00,Tuesday,Dundas and Sterling,,Held By,,260.0,265.0,E/B,4000.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Jun 2014,,2014
+HIST-00005936,2014-07-27,501,04:52:00,Sunday,Queen and Woodbine,,Diversion,,953.0,964.0,W/B,4218.0,Historical,ttc-streetcar-delay-data-2014.xlsx,July 2014,,2014
+HIST-00006296,2014-08-07,505,21:26:00,Thursday,McCaul to Bathurst,,Diversion,,280.0,0.0,W/B,,Historical,ttc-streetcar-delay-data-2014.xlsx,Aug 2014,,2014
+HIST-00006298,2014-08-07,512,22:13:00,Thursday,Caledonia and St.Clair,,Investigation,,264.0,270.0,B/W,4045.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Aug 2014,,2014
+HIST-00006607,2014-08-18,301,01:27:00,Monday,Queen and Sackville,,Held By,,242.0,251.0,B/W,4242.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Aug 2014,,2014
+HIST-00007025,2014-08-29,502,06:24:00,Friday,KINGSTON RD and WOODBINE,,Held By,,257.0,312.0,E/B,4079.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Aug 2014,,2014
+HIST-00007127,2014-09-01,501,09:08:00,Monday,Church - Roncesvalles,,Diversion,,242.0,250.0,B/W,4228.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Sept 2014,,2014
+HIST-00007330,2014-09-06,506,07:00:00,Saturday,Parliament and Gerrard,,Diversion,,960.0,967.0,B/W,4021.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Sept 2014,,2014
+HIST-00007359,2014-09-07,506,07:00:00,Sunday,Parliament and Gerrard - Church and Carlton,,Diversion,,840.0,850.0,B/W,4169.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Sept 2014,,2014
+HIST-00007934,2014-09-21,510,05:10:00,Sunday,Spadina and Bremner,,Emergency Services,,333.0,338.0,S/B,4081.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Sept 2014,,2014
+HIST-00007990,2014-09-22,504,20:58:00,Monday,King & Close,,Held By,,279.0,286.0,B/W,4180.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Sept 2014,,2014
+HIST-00008657,2014-10-09,504,17:51:00,Thursday,King & Jamieson,,Held By,,305.0,313.0,B/W,4197.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00008922,2014-10-19,501,06:07:00,Sunday,Queen and Church,,Held By,,580.0,602.0,W/B,4200.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00008923,2014-10-19,501,06:16:00,Sunday,Queen and McCaul,,Held By,,571.0,581.0,E/B,4202.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00008926,2014-10-19,506,07:00:00,Sunday,Coxwell to Main STN,,Diversion,,610.0,615.0,E/B,4016.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00008928,2014-10-19,504,07:17:00,Sunday,King St. -- Church to Spadina,,Diversion,,500.0,505.0,B/W,4114.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00008930,2014-10-19,509,08:45:00,Sunday,CNE Loop,,Diversion,,555.0,0.0,W/B,4141.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Oct 2014,,2014
+HIST-00009672,2014-11-16,505,05:10:00,Sunday,Dundas and Elizabeth,,Investigation,,248.0,0.0,B/W,4097.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Nov 2014,,2014
+HIST-00009885,2014-11-21,502,12:35:00,Friday,kKingston Rd. at Victoria Pk.,,Emergency Services,,390.0,406.0,E/B,4129.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Nov 2014,,2014
+HIST-00009898,2014-11-22,509,06:05:00,Saturday,QUEENSQUAY AND SPADINA,,Held By,,339.0,0.0,E/B,4198.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Nov 2014,,2014
+HIST-00010097,2014-11-28,505,16:11:00,Friday,Dundas and Lansdowne,,Investigation,,315.0,320.0,E/B,4197.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Nov 2014,,2014
+HIST-00010763,2014-12-20,301,01:04:00,Saturday,Broadview to Coxwell,,Diversion,,277.0,277.0,B/W,4220.0,Historical,ttc-streetcar-delay-data-2014.xlsx,Dec 2014,,2014
+HIST-00011474,2015-01-11,504,05:13:00,Sunday,Queen and Broadview,,Investigation,,292.0,0.0,E/B,4160.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jan 2015,,2015
+HIST-00011475,2015-01-11,505,05:22:00,Sunday,Broadview and Dunds,,Investigation,,283.0,0.0,E/B,4161.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jan 2015,,2015
+HIST-00011791,2015-01-17,504,16:49:00,Saturday,"king and spadina eb, kingand yirk wb",,Diversion,,529.0,535.0,B/W,4191.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jan 2015,,2015
+HIST-00011894,2015-01-20,505,18:48:00,Tuesday,Dundas and Victoria,,Investigation,,432.0,438.0,W/B,4081.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jan 2015,,2015
+HIST-00012297,2015-02-02,301,00:36:00,Monday,Lakeshore Blvd and Islington,,Emergency Services,,230.0,300.0,W/B,4032.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Feb 2015,,2015
+HIST-00012850,2015-02-09,505,21:51:00,Monday,Dundas at Church,,Diversion,,255.0,267.0,B/W,4116.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Feb 2015,,2015
+HIST-00013008,2015-02-13,501,06:20:00,Friday,Queen and York,,Diversion,,286.0,291.0,B/W,4205.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Feb 2015,,2015
+HIST-00013988,2015-03-02,506,17:21:00,Monday,Gerrard and Logan,,Held By,,269.0,275.0,B/W,4041.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Mar 2015,,2015
+HIST-00014352,2015-03-11,506,14:05:00,Wednesday,Howard Park and Roncesvalles,,Mechanical,,506.0,13.0,W/B,4149.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Mar 2015,,2015
+HIST-00014378,2015-03-12,510,08:08:00,Thursday,Spadina south of College,,Investigation,,332.0,336.0,S/B,4117.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Mar 2015,,2015
+HIST-00015847,2015-04-27,501,19:59:00,Monday,The Queensway and Parkside Drive,,Diversion,,541.0,546.0,W/B,4224.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Apr 2015,,2015
+HIST-00016315,2015-05-16,301,02:18:00,Saturday,Queen St. East and Broadview Ave.,,Diversion,,378.0,391.0,B/W,4243.0,Historical,ttc-streetcar-delay-data-2015.xlsx,May 2015,,2015
+HIST-00016453,2015-05-20,501,15:16:00,Wednesday,Lakeshore at 9th,,Investigation,,505.0,514.0,E/B,4243.0,Historical,ttc-streetcar-delay-data-2015.xlsx,May 2015,,2015
+HIST-00016519,2015-05-23,301,00:53:00,Saturday,Humber Loop,,Diversion,,325.0,325.0,W/B,,Historical,ttc-streetcar-delay-data-2015.xlsx,May 2015,,2015
+HIST-00016858,2015-06-02,506,21:47:00,Tuesday,Gerrard at Coxwell,,Diversion,,453.0,461.0,E/B,4064.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00016860,2015-06-02,506,22:20:00,Tuesday,Coxwell at Lower Gerrard,,Diversion,,520.0,530.0,E/B,4055.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00016895,2015-06-04,506,00:01:00,Thursday,Coxwell and Gerrard,,Diversion,,299.0,309.0,E/B,4051.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00016965,2015-06-05,501,17:24:00,Friday,Queen at Lee,,Held By,,174.0,1790.0,B/W,4241.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00017633,2015-06-27,501,12:37:00,Saturday,Queen and Parliament,,Diversion,,687.0,692.0,W/B,4229.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00017760,2015-06-29,504,19:00:00,Monday,Dufferin & King,,Diversion,,480.0,484.0,B/W,4039.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00017793,2015-06-30,504,19:00:00,Tuesday,King & Shaw,,Diversion,,480.0,484.0,B/W,4147.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Jun 2015,,2015
+HIST-00019579,2015-08-29,504,04:51:00,Saturday,Broadview south from Dundas,,Diversion,,360.0,364.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Aug 2015,,2015
+HIST-00019781,2015-09-04,501,04:44:00,Friday,Queen St. E. at Coxwell.,,Diversion,,278.0,283.0,E/B,4203.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00019782,2015-09-04,502,05:08:00,Friday,Queen St. E. at Coxwell.,,Diversion,,254.0,269.0,E/B,4182.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00019850,2015-09-06,506,11:37:00,Sunday,Greenwood and Gerrard Street,,Diversion,,714.0,719.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00019861,2015-09-07,506,00:17:00,Monday,Greenwood and Gerrard Avenue,,Diversion,,343.0,352.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020349,2015-09-18,502,06:09:00,Friday,Queen at Hiltz,,Investigation,,281.0,293.0,B/W,4124.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020351,2015-09-18,501,06:13:00,Friday,Queen at Hiltz,,Investigation,,277.0,283.0,B/W,4245.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020551,2015-09-24,301,01:23:00,Thursday,Lakeshore and Royal York,,Held By,,240.0,258.0,B/W,4246.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020552,2015-09-24,501,04:50:00,Thursday,Lakeshore at Royal York,,Diversion,,308.0,1.0,W/B,4227.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020644,2015-09-27,506,07:14:00,Sunday,Main Stn to Coxwell and Gerrard,,Held By,,219.0,249.0,B/W,4174.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020773,2015-09-30,501,09:51:00,Wednesday,Broadview/Queen - Coxwell/Queen,,Diversion,,258.0,264.0,B/W,4017.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Sept 2015,,2015
+HIST-00020953,2015-10-06,506,11:37:00,Tuesday,Gerrard amd Marjory,,Diversion,,840.0,840.0,B/W,4145.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00020995,2015-10-07,506,17:53:00,Wednesday,Broadview and Gerrard,,Diversion,,335.0,340.0,B/W,4127.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021002,2015-10-07,511,23:15:00,Wednesday,Queen and bathurst,,Diversion,,300.0,300.0,B/W,4044.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021274,2015-10-18,504,07:30:00,Sunday,"Yonge St,  Bathurst Rd",,Diversion,,522.0,531.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021322,2015-10-19,512,17:43:00,Monday,St. Clair and Houndslow heath,,Investigation,,323.0,328.0,E/B,4077.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021374,2015-10-21,501,12:50:00,Wednesday,The Queensway at Roncesvalles CH,,Investigation,,258.0,264.0,W/B,4245.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021416,2015-10-23,506,01:00:00,Friday,Gerrard and Broardview,,Diversion,,240.0,250.0,E/B,4021.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Oct 2015,,2015
+HIST-00021984,2015-11-11,502,09:30:00,Wednesday,Queen St. W. at James St.,,Diversion,,345.0,350.0,W/B,,Historical,ttc-streetcar-delay-data-2015.xlsx,Nov 2015,,2015
+HIST-00021985,2015-11-11,501,09:30:00,Wednesday,Queen St w. at James St.,,Diversion,,345.0,350.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Nov 2015,,2015
+HIST-00022253,2015-11-21,506,19:47:00,Saturday,Howard Park and Indian valley Cres.,,Investigation,,281.0,288.0,W/B,4048.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Nov 2015,,2015
+HIST-00022512,2015-12-01,511,18:04:00,Tuesday,Bathurst and Dundas,,Investigation,,329.0,334.0,S/B,4054.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Dec 2015,,2015
+HIST-00022534,2015-12-02,505,18:04:00,Wednesday,Dundas and Bathurst bothways,,Investigation,,330.0,336.0,B/W,4133.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Dec 2015,,2015
+HIST-00022702,2015-12-09,511,21:10:00,Wednesday,Bathurst and King,,Diversion,,290.0,0.0,S/B,4127.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Dec 2015,,2015
+HIST-00022765,2015-12-12,504,06:52:00,Saturday,Queen @ Victoria,,Held By,,310.0,315.0,B/W,4083.0,Historical,ttc-streetcar-delay-data-2015.xlsx,Dec 2015,,2015
+HIST-00023122,2015-12-28,506,20:30:00,Monday,HIPK to Main STN,,General Delay,,20.0,301.0,B/W,,Historical,ttc-streetcar-delay-data-2015.xlsx,Dec 2015,,2015
+HIST-00023377,2016-01-05,512,09:41:00,Tuesday,Oakwood to Gunns Loop both directions,,Emergency Services,,458.0,462.0,E/B,4089.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Jan 2016,,2016
+HIST-00023553,2016-01-10,501,16:37:00,Sunday,lakeshore at Royal York,,Emergency Services,,313.0,323.0,B/W,4095.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Jan 2016,,2016
+HIST-00024407,2016-01-31,510,05:20:00,Sunday,Spadina @ Dundas,,Diversion,,502.0,505.0,N/B,4415.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Jan 2016,,2016
+HIST-00024611,2016-02-05,501,14:35:00,Friday,Greenwood to Humber,,Investigation,,300.0,305.0,W/B,4089.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Feb 2016,,2016
+HIST-00025451,2016-02-26,504,20:04:00,Friday,Roncesvalles Avenue and Dundas Street West,,Held By,,240.0,246.0,B/W,4164.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Feb 2016,,2016
+HIST-00025527,2016-03-01,501,05:03:00,Tuesday,Queen at McCaul,,Emergency Services,,307.0,312.0,B/W,4041.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025528,2016-03-01,510,05:07:00,Tuesday,Union Stn,,Held By,,313.0,317.0,W/B,4414.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025530,2016-03-01,505,05:07:00,Tuesday,Dundas and River,,Held By,,313.0,319.0,W/B,4115.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025531,2016-03-01,505,05:07:00,Tuesday,Dundas and Munro,,Held By,,308.0,314.0,W/B,4024.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025532,2016-03-01,505,05:12:00,Tuesday,Dundas and University,,Held By,,308.0,314.0,W/B,4191.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025549,2016-03-01,504,17:16:00,Tuesday,Sumach-Spadina,,Emergency Services,,0.0,302.0,W/B,4076.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00025780,2016-03-05,501,23:57:00,Saturday,Shaw St. to Roncesvalles Ave.,,Diversion,,328.0,328.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00026661,2016-03-31,506,06:38:00,Thursday,College and Bathurst,,Held By,,258.0,264.0,W/B,4003.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Mar 2016,,2016
+HIST-00027624,2016-04-24,510,05:35:00,Sunday,Spadina & Queens Quay,,Investigation,,548.0,554.0,E/B,4404.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Apr 2016,,2016
+HIST-00027625,2016-04-24,509,05:56:00,Sunday,Spadina and Queen Quay,,General Delay,,548.0,555.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Apr 2016,,2016
+HIST-00027742,2016-04-28,505,05:17:00,Thursday,parlament to broadview,,Diversion,,639.0,644.0,W/B,4184.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Apr 2016,,2016
+HIST-00027761,2016-04-28,511,13:35:00,Thursday,Harbord and Bathurst,,Held By,,820.0,826.0,S/B,4052.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Apr 2016,,2016
+HIST-00028288,2016-05-13,501,21:00:00,Friday,Kingston/Neville,,Diversion,,335.0,5.0,W/B,4133.0,Historical,ttc-streetcar-delay-data-2016.xlsx,May 2016,,2016
+HIST-00028290,2016-05-13,501,21:39:00,Friday,Kingston/Neville,,General Delay,,418.0,418.0,W/B,4084.0,Historical,ttc-streetcar-delay-data-2016.xlsx,May 2016,,2016
+HIST-00028366,2016-05-16,501,21:20:00,Monday,Queen/Broadview,,Diversion,,460.0,1.0,E/B,4232.0,Historical,ttc-streetcar-delay-data-2016.xlsx,May 2016,,2016
+HIST-00028398,2016-05-17,501,20:38:00,Tuesday,Church St to Spadina Ave,,Diversion,,332.0,338.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,May 2016,,2016
+HIST-00028780,2016-05-26,501,20:00:00,Thursday,Lakeshore between humber/longbranch,,General Delay,,540.0,10.0,E/B,4195.0,Historical,ttc-streetcar-delay-data-2016.xlsx,May 2016,,2016
+HIST-00029142,2016-06-05,501,15:55:00,Sunday,Broadview and Queen/Coxwell and Queen,,Diversion,,356.0,361.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Jun 2016,,2016
+HIST-00029390,2016-06-12,505,10:45:00,Sunday,Dundas and Lansdown,,Diversion,,240.0,248.0,B/W,4012.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Jun 2016,,2016
+HIST-00029831,2016-06-24,505,08:48:00,Friday,Parliament and Dundas,,Held By,,326.0,10.0,W/B,4164.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Jun 2016,,2016
+HIST-00030551,2016-07-17,501,23:50:00,Sunday,Queen and Coxwell,,General Delay,,360.0,369.0,e,4217.0,Historical,ttc-streetcar-delay-data-2016.xlsx,July 2016,,2016
+HIST-00030840,2016-07-26,501,12:57:00,Tuesday,Long Branch Avenue and Lakeshore,,Held By,,234.0,244.0,E/B,4136.0,Historical,ttc-streetcar-delay-data-2016.xlsx,July 2016,,2016
+HIST-00031299,2016-08-09,501,06:37:00,Tuesday,Spadina at Queen,,Investigation,,1400.0,145.0,B/W,4224.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00031540,2016-08-16,501,09:00:00,Tuesday,king at Tecumseth,,Mechanical,,535.0,540.0,E/B,4249.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00031541,2016-08-16,504,09:14:00,Tuesday,King and Bathurst,,Held By,,540.0,544.0,E/B,4034.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00031542,2016-08-16,514,09:25:00,Tuesday,King and Tecumseh,,Investigation,,525.0,535.0,E/B,4404.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00031544,2016-08-16,514,09:25:00,Tuesday,Bathurst and King,,Diversion,,533.0,540.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00031671,2016-08-19,501,17:36:00,Friday,Queen/Broadview,,Held By,,12.0,4216.0,E/B,18.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Aug 2016,,2016
+HIST-00033038,2016-09-27,501,16:55:00,Tuesday,Queen and Portland,,Emergency Services,,310.0,320.0,B/W,1820.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Sept 2016,,2016
+HIST-00033570,2016-10-12,509,19:44:00,Wednesday,Bathurst at Lakeshore,,Held By,,352.0,358.0,E/B,4114.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Oct 2016,,2016
+HIST-00033573,2016-10-12,501,20:40:00,Wednesday,Humber Loop to Long Branch,,General Delay,,480.0,510.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Oct 2016,,2016
+HIST-00033696,2016-10-16,514,08:00:00,Sunday,Dufferin Loop - Cherry Loop,,General Delay,,516.0,0.0,E/B,,Historical,ttc-streetcar-delay-data-2016.xlsx,Oct 2016,,2016
+HIST-00034139,2016-10-27,504,07:12:00,Thursday,Bloor & Dundas,,Investigation,,281.0,5.0,E/B,4028.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Oct 2016,,2016
+HIST-00034683,2016-11-07,506,23:15:00,Monday,"College, Bay to Ossington",,Diversion,,345.0,351.0,W/B,4036.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Nov 2016,,2016
+HIST-00034732,2016-11-08,506,23:11:00,Tuesday,"College, Bay to Ossington",,Diversion,,351.0,359.0,W/B,4010.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Nov 2016,,2016
+HIST-00035184,2016-11-18,501,23:22:00,Friday,Queen St. West and University Ave.,,Diversion,,369.0,369.0,B/W,,Historical,ttc-streetcar-delay-data-2016.xlsx,Nov 2016,,2016
+HIST-00035919,2016-12-06,501,01:07:00,Tuesday,Queen St. East and DVP Bridge,,Diversion,,256.0,256.0,W/B,,Historical,ttc-streetcar-delay-data-2016.xlsx,Dec 2016,,2016
+HIST-00037024,2016-12-25,501,04:30:00,Sunday,Queen and Coxwell,,General Delay,,1008.0,1014.0,W/B,4043.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Dec 2016,,2016
+HIST-00037193,2016-12-29,501,20:42:00,Thursday,Queen and Church/ Sumach and Queen,,Held By,,516.0,526.0,B/W,4229.0,Historical,ttc-streetcar-delay-data-2016.xlsx,Dec 2016,,2016
+HIST-00038615,2017-02-01,501,20:57:00,Wednesday,Parliament St. to York St.,,Diversion,,320.0,320.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00038856,2017-02-07,509,14:03:00,Tuesday,dan lecky way / Queens quay,,General Delay,,240.0,246.0,W/B,4414.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00038861,2017-02-07,506,14:58:00,Tuesday,River / Gerarrd,,General Delay,,240.0,246.0,W/B,4150.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00038865,2017-02-07,512,15:00:00,Tuesday,Yonge to Gunns,,General Delay,,240.0,243.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00038866,2017-02-07,505,15:00:00,Tuesday,Dundas West to Broadview Stns,,General Delay,,240.0,246.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00038940,2017-02-08,509,20:50:00,Wednesday,Queens Quay @ Spadina,,Diversion,,278.0,278.0,W/B,4421.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00039120,2017-02-12,514,16:00:00,Sunday,King @ Sumach,,Diversion,,574.0,574.0,E/B,4403.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00039183,2017-02-14,512,09:34:00,Tuesday,St Clair/Yonge,,Investigation,,1020.0,1024.0,B/W,4170.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00039497,2017-02-23,510,06:00:00,Thursday,Union Station,,Held By,,278.0,1.0,S/B,4415.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00039498,2017-02-23,509,06:06:00,Thursday,Spadina and qquay to union stn,,Diversion,,271.0,0.0,E/B,4419.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Feb 2017,,2017
+HIST-00040886,2017-04-04,514,07:38:00,Tuesday,King St. East and Parliament St.,,Diversion,,377.0,377.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00040887,2017-04-04,504,07:38:00,Tuesday,King St. East and Parliament St.,,Diversion,,594.0,594.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00040922,2017-04-05,504,05:10:00,Wednesday,Queen and Broadview,,Diversion,,383.0,388.0,W/B,4003.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00040923,2017-04-05,504,05:31:00,Wednesday,King and Church,,Diversion,,362.0,367.0,W/B,4117.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00040926,2017-04-05,514,06:01:00,Wednesday,King and Parliament,,Diversion,,382.0,392.0,W/B,4420.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00041145,2017-04-10,506,15:32:00,Monday,Howard Park @ Indian Rd,,Held By,,486.0,492.0,E/B,4039.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00041311,2017-04-15,510,18:04:00,Saturday,Sullivan,,Investigation,,324.0,330.0,S/B,4409.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00041642,2017-04-25,511,07:38:00,Tuesday,Portland/Wellington,,General Delay,,714.0,728.0,NB,1687.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Apr 2017,,2017
+HIST-00041898,2017-05-01,514,17:03:00,Monday,King/Bay,,Emergency Services,,540.0,0.0,B/W,4057.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00041900,2017-05-01,504,17:10:00,Monday,King/Bay,,Emergency Services,,720.0,0.0,B/W,4078.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00041917,2017-05-02,504,05:15:00,Tuesday,Spadina to church on King,,Diversion,,1185.0,1190.0,B/W,4145.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00041920,2017-05-02,514,06:15:00,Tuesday,King & Church,,Diversion,,1125.0,1130.0,B/W,4412.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00042077,2017-05-05,505,18:00:00,Friday,lansdowne/dundas,,Mechanical,,510.0,126.0,E/B,4042.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00042370,2017-05-14,504,07:00:00,Sunday,King and Spadina to King and Church,,General Delay,,245.0,490.0,B/W,4143.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00042372,2017-05-14,514,07:34:00,Sunday,King and Spadina to King and Church,,General Delay,,217.0,434.0,B/W,4422.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00042682,2017-05-23,306,00:05:00,Tuesday,Main STN,,Held By,,340.0,355.0,W/B,4081.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00042759,2017-05-25,510,05:18:00,Thursday,Spadina at Lakeshore,,Held By,,363.0,1.0,B/W,4417.0,Historical,ttc-streetcar-delay-data-2017.xlsx,May 2017,,2017
+HIST-00043393,2017-06-09,506,05:22:00,Friday,Roncy Yard,,Late Leaving Garage,,270.0,4.0,E/B,,Historical,ttc-streetcar-delay-data-2017.xlsx,Jun 2017,,2017
+HIST-00043728,2017-06-16,501,11:42:00,Friday,Queen/ Sackville,,Mechanical,,612.0,6.0,W/B,7909.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Jun 2017,,2017
+HIST-00044289,2017-06-30,511,08:09:00,Friday,Fleet at Strachan,,Mechanical,,285.0,293.0,S/B,4246.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Jun 2017,,2017
+HIST-00044404,2017-07-03,504,23:00:00,Monday,Parliament and King,,Diversion,,317.0,327.0,B/W,4197.0,Historical,ttc-streetcar-delay-data-2017.xlsx,July 2017,,2017
+HIST-00044753,2017-07-15,510,00:06:00,Saturday,queens quay/reese,,Investigation,,223.0,253.0,N/B,4431.0,Historical,ttc-streetcar-delay-data-2017.xlsx,July 2017,,2017
+HIST-00045263,2017-07-31,505,07:20:00,Monday,Sherbourne,,Held By,,275.0,282.0,W/B,4082.0,Historical,ttc-streetcar-delay-data-2017.xlsx,July 2017,,2017
+HIST-00046266,2017-09-04,501,07:58:00,Monday,Church St. to Sunnyside Loop,,Diversion,,271.0,276.0,B/W,,Historical,ttc-streetcar-delay-data-2017.xlsx,Sept 2017 ,,2017
+HIST-00046278,2017-09-04,506,15:08:00,Monday,Dundas and Dufferin,,Investigation,,246.0,492.0,B/W,4123.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Sept 2017 ,,2017
+HIST-00046279,2017-09-04,505,15:12:00,Monday,Dundas/Dufferin,,Diversion,,236.0,243.0,E/B,4150.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Sept 2017 ,,2017
+HIST-00047726,2017-10-18,504,09:05:00,Wednesday,King & Cowan,,Investigation,,244.0,249.0,B/W,4098.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00047818,2017-10-21,511,05:11:00,Saturday,Bathurst and Wollesley,,Diversion,,379.0,389.0,B/W,8377.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00047850,2017-10-22,504,07:11:00,Sunday,Shaw-Church,,General Delay,,474.0,482.0,B/W,4021.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00048006,2017-10-26,501,13:28:00,Thursday,King and Peter,,Emergency Services,,240.0,246.0,B/W,4232.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00048007,2017-10-26,504,13:30:00,Thursday,King and Peter,,Held By,,240.0,245.0,B/W,4167.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00048008,2017-10-26,514,13:30:00,Thursday,King and Peter,,Held By,,240.0,252.0,B/W,4418.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Oct 2017,,2017
+HIST-00048745,2017-11-17,512,12:38:00,Friday,St Clair Station,,Investigation,,321.0,326.0,W/B,4426.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Nov 2017,,2017
+HIST-00050281,2017-12-20,506,11:44:00,Wednesday,Ossington and College,,Held By,,243.0,249.0,B/W,4177.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Dec 2017,,2017
+HIST-00050997,2017-12-31,510,07:17:00,Sunday,Queens Quay,,General Delay,,340.0,340.0,B/W,0.0,Historical,ttc-streetcar-delay-data-2017.xlsx,Dec 2017,,2017
+HIST-00053129,2018-02-10,512,14:44:00,Saturday,St Clair Station,,Held By,,316.0,320.0,E/B,4450.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Feb 2018 ,,2018
+HIST-00053425,2018-02-17,512,10:24:00,Saturday,St Clair Station,,Overhead - Pantograph,,358.0,362.0,E/B,4446.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Feb 2018 ,,2018
+HIST-00054052,2018-03-05,301,01:22:00,Monday,Queen and Kingston Rd,,Diversion,,278.0,285.0,B/W,,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054054,2018-03-05,501,04:46:00,Monday,Queen and Kingston Rd,,Diversion,,992.0,999.0,B/W,,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054094,2018-03-06,501,04:10:00,Tuesday,Queen and Kingston Rd,,General Delay,,337.0,0.0,B/W,4154.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054262,2018-03-11,506,06:16:00,Sunday,Parkside/Bloor,,Diversion,,989.0,999.0,B/W,7786.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054362,2018-03-13,512,22:48:00,Tuesday,St Clair and Avenue Rd,,Emergency Services,,250.0,256.0,E/B,4426.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054626,2018-03-20,504,19:00:00,Tuesday,King & Spadina,,Diversion,,631.0,639.0,B/W,4434.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054627,2018-03-20,514,19:00:00,Tuesday,King & Spadina,,Diversion,,355.0,355.0,B/W,4444.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054800,2018-03-25,514,17:56:00,Sunday,King and Dufferin,,Diversion,,426.0,437.0,W/B,4415.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00054813,2018-03-26,514,06:28:00,Monday,Springhurst Loop,,Diversion,,506.0,516.0,W/B,4403.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Mar 2018,,2018
+HIST-00055108,2018-04-03,503,05:56:00,Tuesday,Kingston Rd & Queen,,Diversion,,258.0,267.0,E/B,4075.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00055603,2018-04-15,501,04:47:00,Sunday,Neville to Humber loop,,General Delay,,330.0,336.0,B/W,,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00055629,2018-04-15,511,17:32:00,Sunday,Bathurst north of Queen,,Mechanical,,310.0,320.0,N/B,4407.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00055650,2018-04-15,509,23:42:00,Sunday,queens quay/spadina,,Diversion,,38.0,443.0,W/B,4421.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00056110,2018-04-25,511,07:31:00,Wednesday,Bathurst & Dundas,,Mechanical,,5.0,417.0,S/B,4178.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00056210,2018-04-27,501,20:37:00,Friday,Queen and sumach,,Held By,,287.0,292.0,B/W,4230.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Apr 2018 ,,2018
+HIST-00056881,2018-05-11,501,05:19:00,Friday,Queen Shaw,,Diversion,,660.0,665.0,E/B,4193.0,Historical,ttc-streetcar-delay-data-2018.xlsx,May 2018 ,,2018
+HIST-00056966,2018-05-13,511,07:40:00,Sunday,Bathurst and King,,Diversion,,280.0,290.0,E/B,4418.0,Historical,ttc-streetcar-delay-data-2018.xlsx,May 2018 ,,2018
+HIST-00057682,2018-05-28,505,14:54:00,Monday,Dundas and Jarvis,,Diversion,,258.0,262.0,E/B,1672.0,Historical,ttc-streetcar-delay-data-2018.xlsx,May 2018 ,,2018
+HIST-00057716,2018-05-29,501,09:27:00,Tuesday,Queen and Dunn,,Mechanical,,501.0,0.0,E/B,4085.0,Historical,ttc-streetcar-delay-data-2018.xlsx,May 2018 ,,2018
+HIST-00059141,2018-06-23,506,12:30:00,Saturday,Bay to Parliament,,General Delay,,240.0,250.0,e/w,,Historical,ttc-streetcar-delay-data-2018.xlsx,June 2018 ,,2018
+HIST-00059438,2018-06-30,301,00:06:00,Saturday,Neville park,,Held By,,244.0,253.0,B/W,4030.0,Historical,ttc-streetcar-delay-data-2018.xlsx,June 2018 ,,2018
+HIST-00059470,2018-06-30,501,19:55:00,Saturday,Peter and queen,,Held By,,246.0,250.0,B/W,4193.0,Historical,ttc-streetcar-delay-data-2018.xlsx,June 2018 ,,2018
+HIST-00059474,2018-06-30,501,19:55:00,Saturday,Queen and Peter,,Investigation,,246.0,250.0,W/B,4193.0,Historical,ttc-streetcar-delay-data-2018.xlsx,June 2018 ,,2018
+HIST-00059483,2018-07-01,301,00:06:00,Sunday,Neville park,,Held By,,244.0,253.0,B/W,4030.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00059487,2018-07-01,501,04:02:00,Sunday,Queen and peter,,Held By,,320.0,330.0,B/W,4049.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060037,2018-07-13,509,17:08:00,Friday,Lower Simcoe / Queens Quay,,Emergency Services,,319.0,325.0,E/B,4439.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060075,2018-07-14,510,17:10:00,Saturday,Queens Quay and Lower Jarvis,,Held By,,313.0,319.0,W/B,4443.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060487,2018-07-25,504,14:02:00,Wednesday,Roncesvalles and Marion st,,Emergency Services,,243.0,248.0,B/W,4429.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060505,2018-07-25,504,20:38:00,Wednesday,Roncesvalles/High Park,,Held By,,318.0,323.0,S/B,4437.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060544,2018-07-26,504,20:38:00,Thursday,Roncesvalles/High Park,,Held By,,318.0,323.0,N/B,4461.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060545,2018-07-26,504,20:38:00,Thursday,Roncesvalles/High Park,,Held By,,318.0,323.0,S/B,4412.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00060546,2018-07-26,504,20:38:00,Thursday,Roncesvalles/High Park,,Held By,,318.0,323.0,S/B,4440.0,Historical,ttc-streetcar-delay-data-2018.xlsx,July 2018,,2018
+HIST-00062129,2018-08-30,512,14:55:00,Thursday,St.Clair Wst Station,,Mechanical,,290.0,293.0,E/B,4461.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Aug 2018 ,,2018
+HIST-00062185,2018-08-31,501,18:44:00,Friday,Sumach / Queen,,Mechanical,,322.0,328.0,W/B,4103.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Aug 2018 ,,2018
+HIST-00062668,2018-09-11,501,17:11:00,Tuesday,Lakeshore & 6th,,Held By,,239.0,249.0,W/B,4032.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Sept 2018 ,,2018
+HIST-00063293,2018-09-27,510,20:50:00,Thursday,spadina tunnel exit,,Mechanical,,352.0,360.0,S/B,4487.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Sept 2018 ,,2018
+HIST-00064205,2018-10-25,504,06:45:00,Thursday,Cherry & Mill,,Mechanical,,420.0,425.0,B/W,4424.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Oct 2018 ,,2018
+HIST-00064670,2018-11-03,501,17:43:00,Saturday,LAKESHORE/LUISA,,Investigation,,239.0,249.0,E/B,4067.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Nov 2018 ,,2018
+HIST-00065535,2018-11-27,304,01:15:00,Tuesday,King/Church,,General Delay,,238.0,247.0,N/B,4414.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Nov 2018 ,,2018
+HIST-00065552,2018-11-27,502,07:55:00,Tuesday,Rainsford and Kingston Rd,,Held By,,600.0,612.0,E/B,8485.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Nov 2018 ,,2018
+HIST-00065649,2018-11-29,504,05:49:00,Thursday,Leslie Barns Yard,,Late Leaving Garage,,2.0,445.0,W/B,4453.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Nov 2018 ,,2018
+HIST-00065688,2018-11-29,506,23:53:00,Thursday,Bathurst and College,,Diversion,,378.0,40.0,W/B,4178.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Nov 2018 ,,2018
+HIST-00065770,2018-12-02,509,11:12:00,Sunday,CNE Loop,,Investigation,,888.0,898.0,E/B,4491.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Dec 2018 ,,2018
+HIST-00065923,2018-12-06,501,17:17:00,Thursday,Long Branch to Humber Loop,,Diversion,,408.0,413.0,E/B,4117.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Dec 2018 ,,2018
+HIST-00065933,2018-12-07,301,00:05:00,Friday,Humber Loop,,Diversion,,413.0,422.0,W/B,4207.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Dec 2018 ,,2018
+HIST-00066128,2018-12-13,511,17:40:00,Thursday,Bathurst and Harbord,,Held By,,290.0,296.0,B/W,1287.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Dec 2018 ,,2018
+HIST-00066279,2018-12-19,504,00:28:00,Wednesday,Brant and King,,Emergency Services,,442.0,448.0,W/B,4425.0,Historical,ttc-streetcar-delay-data-2018.xlsx,Dec 2018 ,,2018
+HIST-00066668,2019-01-01,512,16:41:00,Tuesday,St. Clair and Dufferin,,Held By,,492.0,500.0,E/B,4509.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Jan 2019 ,,2019
+HIST-00066817,2019-01-06,501,14:39:00,Sunday,Elmer and Queen,,Held By,,352.0,256.0,W/B,4114.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Jan 2019 ,,2019
+HIST-00067659,2019-01-24,705,06:20:00,Thursday,Leslie Barns,,Late Leaving Garage,,600.0,1.0,W/B,1.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Jan 2019 ,,2019
+HIST-00068126,2019-01-30,501,22:30:00,Wednesday,Lakeshore/Symons,,Investigation,,284.0,293.0,W/B,4497.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Jan 2019 ,,2019
+HIST-00068525,2019-02-06,304,01:09:00,Wednesday,king and church,,Diversion,,316.0,324.0,B/W,4479.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Feb 2019 ,,2019
+HIST-00068595,2019-02-08,301,01:58:00,Friday,Queen & Parliament,,Emergency Services,,242.0,259.0,W/B,4443.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Feb 2019 ,,2019
+HIST-00068900,2019-02-14,501,20:38:00,Thursday,Queen & Gladstone,,Emergency Services,,334.0,344.0,B/W,4104.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Feb 2019 ,,2019
+HIST-00068949,2019-02-16,301,00:51:00,Saturday,Long Branch Loop,,Investigation,,262.0,271.0,W/B,4079.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Feb 2019 ,,2019
+HIST-00069582,2019-02-28,505,13:08:00,Thursday,Dundas/HURON,,General Delay,,233.0,243.0,E/B,9223.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Feb 2019 ,,2019
+HIST-00070283,2019-03-17,304,06:34:00,Sunday,King and  Berkeley,,Held By,,999.0,999.0,WB,4439.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Mar 2019 ,,2019
+HIST-00070325,2019-03-18,504,06:31:00,Monday,Broadview Stn,,Emergency Services,,265.0,271.0,N/B,4519.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Mar 2019 ,,2019
+HIST-00070326,2019-03-18,505,06:38:00,Monday,Broadview Station,,Investigation,,260.0,268.0,E/B,8411.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Mar 2019 ,,2019
+HIST-00070676,2019-03-29,501,15:58:00,Friday,Degrassi and Queen,,Diversion,,420.0,425.0,W/B,4176.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Mar 2019 ,,2019
+HIST-00071175,2019-04-14,306,03:28:00,Sunday,Spadina and College,,Investigation,5.0,303.0,303.0,B/W,4143.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Apr 2019,,2019
+HIST-00071214,2019-04-15,501,14:43:00,Monday,Queen and Shaw,,Mechanical,1.0,385.0,390.0,E/B,4034.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Apr 2019,,2019
+HIST-00071397,2019-04-21,509,14:39:00,Sunday,CNE Loop,,Investigation,5.0,540.0,546.0,E/B,4517.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Apr 2019,,2019
+HIST-00071398,2019-04-21,511,14:39:00,Sunday,Exhibition Loop,,Diversion,3.0,488.0,495.0,S/B,,Historical,ttc-streetcar-delay-data-2019.xlsx,Apr 2019,,2019
+HIST-00071928,2019-05-10,504,15:16:00,Friday,King and Strachan,,Held By,,379.0,385.0,W/B,4461.0,Historical,ttc-streetcar-delay-data-2019.xlsx,May 2019 ,,2019
+HIST-00071982,2019-05-12,501,20:48:00,Sunday,Lakeshore and Kipling,,Held By,,329.0,339.0,E/B,4117.0,Historical,ttc-streetcar-delay-data-2019.xlsx,May 2019 ,,2019
+HIST-00072239,2019-05-23,504,06:48:00,Thursday,Broadview and Dundas,,Emergency Services,,312.0,319.0,W/B,4450.0,Historical,ttc-streetcar-delay-data-2019.xlsx,May 2019 ,,2019
+HIST-00072240,2019-05-23,505,06:50:00,Thursday,Broadview & Dundas.,,Diversion,,315.0,319.0,B/W,8575.0,Historical,ttc-streetcar-delay-data-2019.xlsx,May 2019 ,,2019
+HIST-00072471,2019-05-29,504,18:55:00,Wednesday,Roncesvalles and Queen,,Emergency Services,,252.0,264.0,B/W,4490.0,Historical,ttc-streetcar-delay-data-2019.xlsx,May 2019 ,,2019
+HIST-00072612,2019-06-03,501,18:24:00,Monday,Colbourne lodge / Queen,,Held By,,326.0,331.0,E/B,4069.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00072724,2019-06-07,506,07:23:00,Friday,Carlton & Jarvis,,Held By,,533.0,539.0,B/W,4191.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00072972,2019-06-13,504,23:09:00,Thursday,King and Bathurst,,General Delay,,339.0,347.0,E/B,4440.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00072973,2019-06-13,504,23:09:00,Thursday,King and sherbourne,,General Delay,,339.0,347.0,W/B,4475.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00072974,2019-06-13,501,23:15:00,Thursday,Queen & Yonge,,Diversion,,315.0,322.0,B/W,4441.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00072977,2019-06-14,510,00:10:00,Friday,Spadina and college,,General Delay,,280.0,289.0,S/B,4523.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073006,2019-06-15,511,05:19:00,Saturday,Fleet and Fort York,,Diversion,,398.0,408.0,E/B,1250.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073074,2019-06-17,504,09:31:00,Monday,King St,,General Delay,,370.0,377.0,B/W,4475.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073161,2019-06-20,505,13:32:00,Thursday,Dundas / Sackville,,Emergency Services,,256.0,301.0,B/W,1086.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073249,2019-06-23,506,13:45:00,Sunday,College and Spadina,,Diversion,,355.0,363.0,W/B,4094.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073471,2019-06-30,504,18:32:00,Sunday,Roncesvalles and Fermanagh,,Held By,,339.0,345.0,W/B,4534.0,Historical,ttc-streetcar-delay-data-2019.xlsx,June 2019 ,,2019
+HIST-00073549,2019-07-04,511,10:40:00,Thursday,Bathurst & Dundas,,Investigation,,448.0,454.0,S/B,4498.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00073550,2019-07-04,511,10:40:00,Thursday,Bathurst and Dundas,,Investigation,,448.0,454.0,S/B,4498.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00073581,2019-07-05,509,14:00:00,Friday,Union Station Tunnel,,Overhead - Pantograph,,293.0,300.0,W/B,4535.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00073615,2019-07-07,301,02:45:00,Sunday,Ossington and Queen,,Diversion,,247.0,251.0,B/W,4468.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00073618,2019-07-07,511,08:28:00,Sunday,Bathurst and Fleet,,Overhead - Pantograph,,250.0,257.0,S/B,4192.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00073711,2019-07-10,510,12:42:00,Wednesday,King and Lakeshore,,Diversion,,450.0,454.0,S/B,4517.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00074216,2019-07-26,501,18:03:00,Friday,Kingston road,,Diversion,,356.0,363.0,E/B,4439.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00074237,2019-07-27,501,05:34:00,Saturday,Kingston Rd / Queen,,Diversion,,356.0,361.0,E/B,4454.0,Historical,ttc-streetcar-delay-data-2019.xlsx,July 2019 ,,2019
+HIST-00074955,2019-08-22,501,19:03:00,Thursday,Lakeshore & 31ST,,Investigation,,290.0,299.0,E/B,8045.0,Historical,ttc-streetcar-delay-data-2019.xlsx,"Aug, 2019 ",,2019
+HIST-00075054,2019-08-26,506,16:45:00,Monday,Gerrard and Woodfield,,Held By,,555.0,561.0,B/W,4193.0,Historical,ttc-streetcar-delay-data-2019.xlsx,"Aug, 2019 ",,2019
+HIST-00075434,2019-09-11,504,08:33:00,Wednesday,King and Charlotte,,Emergency Services,,311.0,316.0,W/B,4494.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00075604,2019-09-17,510,05:09:00,Tuesday,Spadina & Queens Quay,,Diversion,,403.0,411.0,E/B,4556.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00075612,2019-09-17,509,05:54:00,Tuesday,Queens Quay & Spadina,,Diversion,,312.0,319.0,E/B,4499.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00075639,2019-09-17,510,21:30:00,Tuesday,Queen's Quay and Spadina,,Diversion,,307.0,337.0,E/B,4529.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00075866,2019-09-27,506,15:15:00,Friday,College and Queens Park,,Held By,,247.0,253.0,E/B,4495.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00075895,2019-09-28,501,12:39:00,Saturday,Queen and Younge St.,,Emergency Services,,326.0,332.0,B/W,4450.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Sept 2019 ,,2019
+HIST-00076544,2019-10-20,504,16:13:00,Sunday,King Street,,General Delay,,551.0,561.0,B/W,4547.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Oct 2019 ,,2019
+HIST-00077608,2019-11-27,501,13:30:00,Wednesday,Neville to Long Branch,,Mechanical,,720.0,0.0,B/W,,Historical,ttc-streetcar-delay-data-2019.xlsx, Nov 2019,,2019
+HIST-00077724,2019-12-01,504,07:15:00,Sunday,Kinng and Young,,Investigation,,300.0,308.0,B/W,4589.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00077904,2019-12-06,306,00:01:00,Friday,Sackville & Gerrard,,Diversion,,384.0,392.0,B/W,,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00077906,2019-12-06,304,02:00:00,Friday,King & Spadina,,Diversion,,237.0,247.0,B/W,4500.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00077922,2019-12-06,506,09:21:00,Friday,Gerrard and Sackville,,Diversion,,996.0,999.0,B/W,4522.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00077940,2019-12-06,504,22:32:00,Friday,King & Spadina,,Diversion,,258.0,263.0,B/W,4481.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00078440,2019-12-28,501,15:28:00,Saturday,Queen Street East  River,,Investigation,,242.0,252.0,W/B,4494.0,Historical,ttc-streetcar-delay-data-2019.xlsx,Dec 2019,,2019
+HIST-00079081,2020-01-22,504,10:20:00,Wednesday,King and Dufferin,,Emergency Services,,418.0,426.0,W/B,4560.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Jan 2020,,2020
+HIST-00079334,2020-02-01,510,08:54:00,Saturday,King and Yonge,,Diversion,,999.0,999.0,W/B,4454.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00079351,2020-02-02,504,05:12:00,Sunday,CHURCH AND KING,,Diversion,,1128.0,1138.0,W/B,,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00079368,2020-02-03,512,09:28:00,Monday,St Clair & Vaughan,,Mechanical,,280.0,284.0,E/B,4516.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00079787,2020-02-21,511,04:29:00,Friday,Bathurst & King,,Late Leaving Garage,,320.0,328.0,N/B,4500.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00079817,2020-02-21,504,18:47:00,Friday,King / John,,Held By,,287.0,297.0,W/B,4497.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00079912,2020-02-25,501,09:55:00,Tuesday,Queen & Shaw,,Diversion,,370.0,377.0,B/W,4423.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Feb 2020,,2020
+HIST-00080901,2020-04-09,705,12:37:00,Thursday,CNE Loop,,Mechanical,,1294.0,1304.0,S/B,4445.0,Historical,ttc-streetcar-delay-data-2020.xlsx,April 2020,,2020
+HIST-00081049,2020-04-15,504,20:22:00,Wednesday,CHURCH AND KING,,Held By,,422.0,432.0,W/B,4556.0,Historical,ttc-streetcar-delay-data-2020.xlsx,April 2020,,2020
+HIST-00081051,2020-04-16,504,02:04:00,Thursday,KING AND SPADINA,,Diversion,,1294.0,1304.0,E/B,4472.0,Historical,ttc-streetcar-delay-data-2020.xlsx,April 2020,,2020
+HIST-00081324,2020-04-28,512,11:38:00,Tuesday,St Clair West Stn,,Mechanical,,900.0,1.0,W/B,4473.0,Historical,ttc-streetcar-delay-data-2020.xlsx,April 2020,,2020
+HIST-00081751,2020-05-21,510,22:41:00,Thursday,SPADINA AND COLLEGE,,Investigation,,290.0,299.0,N/B,1247.0,Historical,ttc-streetcar-delay-data-2020.xlsx,May 2020,,2020
+HIST-00081785,2020-05-23,501,20:01:00,Saturday,Queen and Jarvus,,Held By,,358.0,408.0,E/B,4425.0,Historical,ttc-streetcar-delay-data-2020.xlsx,May 2020,,2020
+HIST-00081913,2020-05-30,506,16:41:00,Saturday,Gerrard and Parliament,,Diversion,,387.0,395.0,W/B,4585.0,Historical,ttc-streetcar-delay-data-2020.xlsx,May 2020,,2020
+HIST-00081951,2020-06-02,506,14:35:00,Tuesday,College and University,,Emergency Services,,414.0,423.0,B/W,4542.0,Historical,ttc-streetcar-delay-data-2020.xlsx,June 2020,,2020
+HIST-00081979,2020-06-04,501,05:33:00,Thursday,Queen St E and Sumach Ave,,Emergency Services,,999.0,999.0,E/B,4401.0,Historical,ttc-streetcar-delay-data-2020.xlsx,June 2020,,2020
+HIST-00082201,2020-06-19,506,08:35:00,Friday,College and Yonge,,Held By,,627.0,635.0,B/W,4438.0,Historical,ttc-streetcar-delay-data-2020.xlsx,June 2020,,2020
+HIST-00082207,2020-06-19,512,12:05:00,Friday,St. Clair and Lansdowne Street,,Emergency Services,,274.0,279.0,E/B,4464.0,Historical,ttc-streetcar-delay-data-2020.xlsx,June 2020,,2020
+HIST-00082469,2020-07-08,504,20:30:00,Wednesday,Sunnyside Loop,,Diversion,,330.0,341.0,N/B,4570.0,Historical,ttc-streetcar-delay-data-2020.xlsx,July 2020,,2020
+HIST-00082728,2020-08-02,511.0,08:08,Sunday,BATHURST STATION,,Operations,,7.0,414.0,S,0.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00082809,2020-08-06,505.0,10:36,Thursday,DUNDAS AND RIVER,,Held By,,886.0,895.0,,4474.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00082933,2020-08-10,504.0,08:30,Monday,PARLIAMENT AND QUEEN,,Held By,,207.0,284.0,B,4525.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00083001,2020-08-13,512.0,05:08,Thursday,ST CLAIR AND LANSDOWNE,,Investigation,,361.0,371.0,E,4438.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00083290,2020-08-24,505.0,17:17,Monday,DUNDAS AND STERLING,,Overhead,,508.0,519.0,W,4401.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00083311,2020-08-26,301.0,04:47,Wednesday,SOUTH KINGSWAY AND THE,,Overhead,,254.0,264.0,E,4592.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00083315,2020-08-26,501.0,09:24,Wednesday,QUEENSWAY AND SUNNYSID,,Held By,,254.0,264.0,E,4593.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Aug 20,,2020
+HIST-00083507,2020-09-08,501,05:25,Tuesday,LAKE SHORE AND NINTH,,Investigation,,240.0,250.0,,0.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Sept 20,,2020
+HIST-00083574,2020-09-12,304,02:58,Saturday,PARLIAMENT AND DUNDAS,,Held By,,324.0,341.0,N,4519.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Sept 20,,2020
+HIST-00083578,2020-09-12,505,05:08,Saturday,DUNDAS AND PARLIAMENT,,Investigation,,281.0,291.0,B,0.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Sept 20,,2020
+HIST-00083736,2020-09-19,512,21:28,Saturday,ST CLAIR WEST AND HARV,,Collision - TTC Involved,,287.0,300.0,W,4582.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Sept 20,,2020
+HIST-00084096,2020-10-09,511.0,10:20,Friday,BATHURT AND QUEEN,,Diversion,,400.0,404.0,S,1084.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Oct 20,,2020
+HIST-00084617,2020-11-02,505,16:31,Monday,DUNDAS AND RIVER,,Investigation,,817.0,827.0,,4539.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Nov 20,,2020
+HIST-00084618,2020-11-02,506,17:20,Monday,DUNDAS AND ONTARIO,,Investigation,,326.0,332.0,W,1056.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Nov 20,,2020
+HIST-00084677,2020-11-04,504,12:42,Wednesday,DISTILLERY LOOP,,Held By,,350.0,356.0,,4455.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Nov 20,,2020
+HIST-00085006,2020-11-15,512,21:27,Sunday,ST CLAIR AND TWEEDSMUI,,General Delay,,273.0,283.0,E,4558.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Nov 20,,2020
+HIST-00085444,2020-12-01,512,06:00,Tuesday,ST CLAIR AND WALMER,,Operations,,289.0,295.0,E,4590.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085445,2020-12-01,512,06:10,Tuesday,ST CLAIR WEST STATION,,Operations,,289.0,295.0,E,4483.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085446,2020-12-01,512,06:36,Tuesday,ST CLAIR AND BATHURST,,Operations,,289.0,295.0,W,4485.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085526,2020-12-03,501,16:14,Thursday,LAKESHORE AND TWENTY N,,Collision - TTC Involved,,440.0,450.0,W,4429.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085657,2020-12-07,511,20:53,Monday,STRACHAN AND MANITOBA,,Diversion,,302.0,308.0,E,1050.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085807,2020-12-13,501,05:16,Sunday,QUEEN AND MUTUAL,,General Delay,,620.0,630.0,,0.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00085913,2020-12-16,501,19:42,Wednesday,QUEEN AND CHURCH,,General Delay,,310.0,320.0,,0.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00086220,2020-12-27,506,19:10,Sunday,DUNDAS AND STERLING,,Emergency Services,,264.0,272.0,,3431.0,Historical,ttc-streetcar-delay-data-2020.xlsx,Dec 20,,2020
+HIST-00087261,2021-01-29,506,05:40,Friday,WOODBINE AND KINGSTON,,Operations,,285.0,291.0,W,1236.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Jan 21,,2021
+HIST-00087262,2021-01-29,506,05:50,Friday,LOWER GERRARD AND COXW,,Emergency Services,,285.0,291.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Jan 21,,2021
+HIST-00087653,2021-02-10,510.0,18:44,Wednesday,SPADINA AND FRONT,,Overhead,,455.0,462.0,S,4594.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00087654,2021-02-10,509.0,18:45,Wednesday,SPADINA AND FORT YORK,,Overhead,,370.0,377.0,E,4562.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00087667,2021-02-11,509.0,09:17,Thursday,FLEET AND BATHURST,,Overhead,,269.0,279.0,E,4523.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00087808,2021-02-16,505.0,02:55,Tuesday,DUNDAS AND BLOOR,,General Delay,,658.0,662.0,B,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00087854,2021-02-16,504.0,15:29,Tuesday,RONCESVALLES AND HOWAR,,General Delay,,658.0,662.0,B,1117.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00088131,2021-02-24,510.0,03:54,Wednesday,SPADINA AV AND COLLEGE,,Security,,260.0,267.0,S,4563.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Feb 21,,2021
+HIST-00088834,2021-03-15,505.0,14:47,Monday,DUNDAS WEST AND BLOOR,,Overhead,,682.0,689.0,S,4576.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Mar 21,,2021
+HIST-00089255,2021-03-25,506.0,16:46,Thursday,COLLEGE AND BEVERLEY,,Cleaning,,413.0,419.0,B,4474.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Mar 21,,2021
+HIST-00089368,2021-03-28,506.0,02:04,Sunday,COLLEGE AND BEVERLEY,,General Delay,,400.0,410.0,,3410.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Mar 21,,2021
+HIST-00089373,2021-03-28,510.0,09:43,Sunday,SPADINA AND KING,,General Delay,,797.0,806.0,,4468.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Mar 21,,2021
+HIST-00089911,2021-04-11,506,09:45,Sunday,COLLEGE AND LANSDOWNE,,Mechanical,,10.0,506.0,S,4451.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Apr 21,,2021
+HIST-00090568,2021-04-27,506,15:26,Tuesday,MAIN STREET STATION,,Held By,,276.0,282.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Apr 21,,2021
+HIST-00090834,2021-05-03,510,18:23,Monday,SPADINA AND NASSAU,,Held By,,240.0,247.0,N,4540.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091510,2021-05-20,504,22:05,Thursday,BATHURST AND KING,,General Delay,,300.0,310.0,W,4477.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091521,2021-05-21,506,04:40,Friday,DUNDAS AND SHERBOURNE,,Held By,,260.0,269.0,B,4494.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091652,2021-05-25,504,11:29,Tuesday,KING AND BATHURST,,General Delay,,532.0,540.0,B,4483.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091691,2021-05-26,504,11:29,Wednesday,KING AND BATHURST,,General Delay,,944.0,954.0,B,4589.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091745,2021-05-28,506,05:49,Friday,HOWARD PARK AND DUNDAS,,Held By,,241.0,249.0,E,4460.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00091747,2021-05-28,505,06:03,Friday,HOWARD PARK AND DUNDAS,,Held By,,241.0,247.0,B,4458.0,Historical,ttc-streetcar-delay-data-2021.xlsx,May 21,,2021
+HIST-00092295,2021-06-12,501,18:26,Saturday,QUEEN AND WOODBINE (W,,Held By,,232.0,242.0,E,4515.0,Historical,ttc-streetcar-delay-data-2021.xlsx,June 21,,2021
+HIST-00092976,2021-07-02,301,02:00,Friday,QUEEN AND YONGE,,Investigation,,239.0,263.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093006,2021-07-02,501,14:41,Friday,QUEEN AND YONGE,,Investigation,,239.0,263.0,B,8683.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093303,2021-07-11,506,17:51,Sunday,COLLEGE - BATHURST TO,,Held By,,430.0,438.0,B,4436.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093305,2021-07-11,512,18:20,Sunday,ST CLAIR - DUFFERIN TO,,Held By,,480.0,488.0,W,8077.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093390,2021-07-14,511,19:58,Wednesday,BATHURST AND QUEEN,,Held By,,363.0,377.0,S,4568.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093580,2021-07-19,506,22:39,Monday,GERRARD AND GREENWOOD,,Investigation,,233.0,241.0,E,4480.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093850,2021-07-28,306,02:51,Wednesday,GERRARD AND RIVER,,Investigation,,480.0,488.0,E,4533.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00093853,2021-07-28,505,04:54,Wednesday,GERRARD AND RIVER,,Investigation,,245.0,253.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,July 21,,2021
+HIST-00094301,2021-08-08,510,06:11,Sunday,SPADINA AND CECIL,,Investigation,,981.0,991.0,N,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00094312,2021-08-08,506,13:55,Sunday,COLLEGE AND SPADINA,,Emergency Services,,286.0,295.0,E,4525.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00094317,2021-08-08,510,14:49,Sunday,SPADINA AND COLLEGE,,Investigation,,305.0,310.0,S,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00094607,2021-08-14,506,21:41,Saturday,GERRARD AND GREENWOOD,,Held By,,334.0,343.0,E,4465.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00094987,2021-08-24,301,12:03,Tuesday,LAKESHORE AND WINDERME,,General Delay,,237.0,252.0,E,9233.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00094988,2021-08-24,501,12:03,Tuesday,LAKESHORE AND WINDERME,,Diversion,,237.0,252.0,E,9233.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00095071,2021-08-27,504,04:07,Friday,KING AND BATHURST,,Security,,253.0,273.0,E,1087.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Aug 21,,2021
+HIST-00095377,2021-09-03,506.0,17:34,Friday,COLLEGE AND UNIVERSITY,,Held By,,400.0,489.0,E,4601.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Sept 21,,2021
+HIST-00096589,2021-09-29,501.0,07:20,Wednesday,QUEEN AND UNIVERSITY,,Diversion,,720.0,725.0,E,7916.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Sept 21,,2021
+HIST-00096654,2021-09-30,506.0,13:06,Thursday,CARLTON AND YONGE,,Held By,,272.0,8.0,B,4534.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Sept 21,,2021
+HIST-00097328,2021-10-15,501,12:03,Friday,PARLIAMENT AND RICHMON,,General Delay,,612.0,619.0,S,4498.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Oct 21,,2021
+HIST-00097584,2021-10-21,301,00:32,Thursday,QUEEN AND YORK,,Diversion,,434.0,444.0,B,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Oct 21,,2021
+HIST-00097951,2021-11-06,506.0,05:48,Saturday,RONCESSVALES YARD,,Rail/Switches,,405.0,412.0,E,4600.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Nov 21,,2021
+HIST-00098118,2021-11-11,501.0,16:28,Thursday,CHURCH AND KING,,General Delay,,542.0,49.0,,4548.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Nov 21,,2021
+HIST-00098693,2021-11-23,501.0,14:14,Tuesday,ADELAIDE AND SPADINA,,Diversion,,360.0,368.0,E,7924.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Nov 21,,2021
+HIST-00098806,2021-11-26,501.0,04:24,Friday,QUEEN AND JARVIS,,Diversion,,230.0,260.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Nov 21,,2021
+HIST-00098872,2021-11-27,512.0,09:48,Saturday,ST CLAIR WEST STATION,,Operations,,342.0,352.0,E,4560.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Nov 21,,2021
+HIST-00099747,2021-12-15,504,11:53,Wednesday,DUFFERIN AND KING,,Held By,,814.0,820.0,W,4602.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Dec 21,,2021
+HIST-00099826,2021-12-16,511,20:30,Thursday,BATHURST AND BLOOR,,Diversion,,342.0,351.0,,0.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Dec 21,,2021
+HIST-00099931,2021-12-18,504,15:01,Saturday,CHERRY AND TANKHOUSE,,Collision - TTC Involved,,241.0,246.0,N,8101.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Dec 21,,2021
+HIST-00100722,2021-12-30,505,09:38,Thursday,BROADVIEW AND DUNDAS,,Diversion,,337.0,344.0,W,4577.0,Historical,ttc-streetcar-delay-data-2021.xlsx,Dec 21,,2021
+HIST-00101958,2022-01-12,506,22:00,Wednesday,KING AND CHURCH,,Diversion,,290.0,296.0,B,4574.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102276,2022-01-17,501,16:57,Monday,QUEEN AND SUMACH,,General Delay,,331.0,341.0,W,8453.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102277,2022-01-17,501,17:21,Monday,QUEEN AND SUMACH,,Diversion,,468.0,473.0,,4525.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102458,2022-01-19,505,18:53,Wednesday,DUNDAS AND BROCK,,Held By,,232.0,241.0,W,4573.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102526,2022-01-20,501,15:33,Thursday,QUEEN AND KINGSTON,,Diversion,,327.0,335.0,E,4559.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102651,2022-01-22,501,05:20,Saturday,KINGSTON LOOP,,Held By,,460.0,470.0,B,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102661,2022-01-22,505,09:20,Saturday,ST CLAIR WEST STATION,,Diversion,,598.0,628.0,W,4425.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00102714,2022-01-23,501,05:20,Sunday,KINGSON AND QUEEN,,Held By,,460.0,470.0,E,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103373,2022-02-05,504,08:34,Saturday,QUEEN AND TRILLER,,Held By,,713.0,718.0,E,8395.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103382,2022-02-05,505,13:00,Saturday,DUNDAS AND LANSDOWNE,,General Delay,,840.0,850.0,W,4483.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103772,2022-02-13,505,00:42,Sunday,DUNDAS AND HOWARD PARK,,Diversion,,247.0,257.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103773,2022-02-13,506,00:44,Sunday,DUNDAS AND HOWARD PARK,,Diversion,,247.0,257.0,,4541.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103790,2022-02-14,510,10:27,Monday,UNION TUNNEL,,Held By,,980.0,990.0,S,4542.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00103822,2022-02-14,509,21:34,Monday,UNION STATION,,General Delay,,908.0,917.0,,4561.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00104013,2022-02-18,501,06:58,Friday,BATHURST AND WOLLESLEY,,Rail/Switches,,468.0,476.0,N,4459.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00104085,2022-02-18,504,22:16,Friday,KING AND TRILLER,,Diversion,,235.0,241.0,E,8170.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00104873,2022-03-06,501,13:42,Sunday,QUEEN AND CHURCH TO JA,,Diversion,,289.0,294.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00104877,2022-03-06,501,14:48,Sunday,QUEEN EAST AND WOODBIN,,Diversion,,333.0,341.0,E,4591.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00104896,2022-03-06,510,21:04,Sunday,SPADINA STATION,,Overhead,,308.0,313.0,S,4405.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00105339,2022-03-16,501,08:12,Wednesday,QUEEN AND SUMACH,,Overhead,,374.0,382.0,W,4555.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00106288,2022-03-31,501,17:44,Thursday,LAKE SHORE AND ALBERT,,Diversion,,463.0,741.0,W,9216.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00106294,2022-03-31,501,18:40,Thursday,LAKESHORE AND 8TH,,Diversion,,260.0,270.0,W,7965.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00106493,2022-04-04,505,03:53,Monday,DUNDAS AND VICTORIA,,Investigation,,300.0,307.0,W,4543.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00106913,2022-04-11,505,22:41,Monday,DUNDAS AND JARVIS TO P,,Held By,,243.0,252.0,,4474.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107100,2022-04-15,506,02:00,Friday,COLLEGE AND GRACE,,Diversion,,320.0,329.0,E,4563.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107106,2022-04-15,506,04:35,Friday,COLLEGE AND LANSDOWNE,,Diversion,,485.0,493.0,E,4567.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107143,2022-04-15,509,21:06,Friday,QUEENS QUAY AND LOWER,,Diversion,,272.0,280.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107149,2022-04-15,510,22:39,Friday,QUEENS QUAY STATION,,Held By,,240.0,250.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107379,2022-04-19,501,20:32,Tuesday,LAKE SHORE AND LAKE,,Diversion,,228.0,248.0,B,8706.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107605,2022-04-23,506,14:58,Saturday,COLLEGE AND QUEENS PAR,,Mechanical,,255.0,263.0,W,4571.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00107948,2022-04-29,501,05:56,Friday,THE QUEENSWAY AND ELLI,,Diversion,,398.0,406.0,E,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00108090,2022-05-01,511,08:10,Sunday,BATHURST AND DUNDAS,,Held By,,265.0,272.0,S,4536.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109208,2022-05-18,504,15:01,Wednesday,FRONT AND PARLIAMENT,,Diversion,,426.0,430.0,W,8152.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109390,2022-05-22,501,19:36,Sunday,QUEEN AND SILVER BIRCH,,Diversion,,286.0,296.0,E,4440.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109415,2022-05-23,504,14:39,Monday,DUNDAS ST W AND BLOOR,,Diversion,,623.0,628.0,E,8365.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109856,2022-06-03,506,14:46,Friday,UPPER GERRARD AND NORM,,Held By,,313.0,322.0,E,4494.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109878,2022-06-03,504,18:38,Friday,HIGH PARK STATION,,Operations,,6.0,441.0,E,8369.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00109934,2022-06-04,506,21:26,Saturday,MAIN STREET STATION,,General Delay,,600.0,12.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00110911,2022-06-26,506,12:30,Sunday,COLLEGE AND SPADINA,,Held By,,547.0,557.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00112310,2022-07-26,512,07:16,Tuesday,ST CLAIR AND BRICK LAN,,Collision - TTC Involved,,240.0,247.0,E,4568.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113050,2022-08-13,504,21:34,Saturday,KING AND GEORGE TO FRE,,Diversion,,326.0,336.0,,4427.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113170,2022-08-17,503,08:13,Wednesday,KING AND PARLIAMENT,,Diversion,,703.0,713.0,W,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113266,2022-08-19,509,03:31,Friday,QUEENS QUAY,,Diversion,,235.0,246.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113284,2022-08-19,501,13:29,Friday,BAY AND RICHMOND,,Diversion,,272.0,278.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113398,2022-08-22,503,14:17,Monday,CHARLOTTE LOOP,,Diversion,,239.0,249.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113461,2022-08-23,510,19:00,Tuesday,SPADINA AND QUEENS QUA,,Diversion,,360.0,370.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113493,2022-08-24,501,13:40,Wednesday,ADELAIDE AND YORK,,Investigation,,20.0,317.0,W,8804.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113513,2022-08-24,510,19:21,Wednesday,QUEENS QUAY AND SPADIN,,Diversion,,360.0,370.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113556,2022-08-25,510,19:00,Thursday,UNION STN,,Diversion,,360.0,370.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113658,2022-08-29,501,05:16,Monday,QUEEN AND WOODBINE,,Diversion,,256.0,0.0,E,4424.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113662,2022-08-29,501,05:37,Monday,QUEEN AND ELMER,,Diversion,,235.0,245.0,W,8613.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00113848,2022-09-03,512,11:56,Saturday,ST CLAIR AND YONGE,,Held By,,402.0,407.0,W,4479.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00114171,2022-09-11,506,09:00,Sunday,UNIVERSITY AND COLLEGE,,Diversion,,760.0,770.0,,8628.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00114383,2022-09-15,506,00:34,Thursday,JARVIS AND WELLESLEY,,Diversion,,267.0,277.0,B,8531.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00114743,2022-09-24,504,22:47,Saturday,KING AND SPADINA,,Diversion,,238.0,244.0,W,4445.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115038,2022-10-02,509,07:45,Sunday,EXHIBITION LOOP,,Diversion,,435.0,445.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115039,2022-10-02,511,07:45,Sunday,EXHIBITION LOOP,,Diversion,,445.0,455.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115045,2022-10-02,506,10:19,Sunday,CARLTON AND JARVIS,,Diversion,,467.0,472.0,N,8628.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115262,2022-10-07,504,21:36,Friday,KING AND SHAW,,Diversion,,247.0,252.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115263,2022-10-07,511,21:38,Friday,KING AND SHAW,,Diversion,,247.0,255.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115437,2022-10-13,510,04:31,Thursday,HARBOURFRONT TUNNEL,,Diversion,,347.0,357.0,B,4598.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115438,2022-10-13,510,04:49,Thursday,QUEENS QUAY AND SPADIN,,Diversion,,301.0,309.0,W,4533.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115812,2022-10-22,301,03:49,Saturday,QUEEN AND DENISON,,Investigation,,360.0,370.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115846,2022-10-22,509,16:35,Saturday,LAKESHORE AND BATHURST,,Investigation,,424.0,434.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115848,2022-10-22,504,16:59,Saturday,KING AND BATHURST,,Investigation,,450.0,460.0,W,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00115849,2022-10-22,511,17:30,Saturday,BATHURST AND LAKESHORE,,Investigation,,435.0,440.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00116219,2022-11-02,506,05:23,Wednesday,CARLTON - BAY AND PARL,,Diversion,,592.0,601.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00116295,2022-11-03,304,01:19,Thursday,KING AND STRACHAN,,Diversion,,258.0,288.0,E,8443.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00116762,2022-11-15,506,16:41,Tuesday,DUNDAS AND COLLEGE,,General Delay,,294.0,303.0,E,4558.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00117053,2022-11-21,505,22:32,Monday,DUNDAS AND YONGE,,Diversion,,245.0,0.0,W,4520.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00117177,2022-11-24,505,16:49,Thursday,DUNDAS AND BROCK,,Diversion,,611.0,618.0,,0.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00117872,2022-12-12,506,11:41,Monday,DUNDAS AND SPADINA,,Diversion,,262.0,270.0,E,4492.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00118092,2022-12-18,512,11:34,Sunday,ST. CLAIR AND OAKWOOD,,Diversion,,581.0,589.0,,4417.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00118203,2022-12-21,511,10:42,Wednesday,FLEET AND STRACHAN,,General Delay,,255.0,0.0,E,4402.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00118204,2022-12-21,509,11:28,Wednesday,MANITOBA AND STRACHAN,,Diversion,,942.0,952.0,E,4415.0,Historical,ttc-streetcar-delay-data-2022.xlsx,2022,,2022
+HIST-00118833,2023-01-08,506,04:44,Sunday,COLLEGE AND GRACE,,Diversion,,763.0,773.0,E,4545.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00119034,2023-01-14,501,19:56,Saturday,KINGSTON LOOP,,Operations,,9.0,601.0,,4585.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00119331,2023-01-23,503,09:20,Monday,SPRINGHURST AND DUFFER,,Diversion,,815.0,823.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00119924,2023-02-07,501,11:25,Tuesday,QUEEN AND GLADSTONE,,Diversion,,575.0,581.0,W,4472.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00120206,2023-02-14,504,15:29,Tuesday,ENTIRE ROUTE,,General Delay,,389.0,394.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00120560,2023-02-24,510,06:34,Friday,QUEENS QUAY AND SPADIN,,Diversion,,402.0,412.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00121326,2023-03-15,501,06:35,Wednesday,QUEEN - AUGUSTA TO POR,,General Delay,,248.0,256.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00121327,2023-03-15,501,06:45,Wednesday,585 QUEEN ST,,Diversion,,323.0,331.0,E,4459.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00121331,2023-03-15,511,07:32,Wednesday,BATHURST STATION TO CN,,General Delay,,418.0,427.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00121711,2023-03-26,505,08:20,Sunday,DUNDAS AND PARLIAMENT,,Diversion,,68.0,789.0,E,4452.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00122566,2023-04-15,509,07:11,Saturday,QUEENS QUAY AND LOWER,,Diversion,,720.0,728.0,W,1127.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00122571,2023-04-15,510,10:48,Saturday,SPADINA BW KING TO QUE,,Diversion,,419.0,423.0,S,4574.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00122579,2023-04-15,510,13:59,Saturday,SPADINA AND SUSSEX,,Overhead,,556.0,560.0,S,4540.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123618,2023-05-11,506,06:30,Thursday,COXWELL AND GERRARD,,Diversion,,367.0,374.0,W,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123629,2023-05-11,504,13:35,Thursday,KING AND BATHURST,,Held By,,380.0,390.0,E,4413.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123630,2023-05-11,504,13:37,Thursday,KING AND CHURCH,,Diversion,,380.0,393.0,E,4413.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123633,2023-05-11,501,14:39,Thursday,KING AND BAY,,Diversion,,380.0,388.0,E,8126.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123643,2023-05-11,506,18:53,Thursday,COXWELL AVE. AND LOWER,,Diversion,,367.0,374.0,S,8753.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123860,2023-05-17,506,13:10,Wednesday,COXWELL AND GERRARD,,Diversion,,720.0,727.0,W,8785.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123888,2023-05-17,306,00:32,Wednesday,COLLEGE ST. AND YONGE,,Diversion,,258.0,278.0,W,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00123889,2023-05-17,306,00:32,Wednesday,COXWELL AND GERRARD,,Diversion,,258.0,278.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124221,2023-05-26,506,13:23,Friday,GERRARD AND COXWELL,,Diversion,,728.0,735.0,W,8711.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124357,2023-05-29,306,00:34,Monday,COXWELL AND LOWER GERR,,Diversion,,282.0,292.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124401,2023-05-30,306,00:29,Tuesday,COXWELL AND LOWER GERR,,Diversion,,255.0,265.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124446,2023-05-31,506,00:32,Wednesday,COLLEGE ST. AND YONGE,,Diversion,,252.0,262.0,W,8663.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124447,2023-05-31,306,00:32,Wednesday,CXOWELL AND LOWER GERR,,Diversion,,252.0,262.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124464,2023-06-01,506,15:10,Thursday,GERRARD AND COXWELL,,Diversion,,530.0,538.0,W,8739.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124496,2023-06-02,506,08:13,Friday,COXWELL AND LOWER GERR,,Diversion,,641.0,648.0,W,8621.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124618,2023-06-05,506,09:15,Monday,COXWELL AND GERRARD,,Diversion,,882.0,890.0,W,8739.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124647,2023-06-06,506,08:09,Tuesday,COXWELL AND LOWER GERR,,Diversion,,948.0,956.0,W,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124670,2023-06-06,506,20:09,Tuesday,VICTORIA PARK STATION,,Diversion,,948.0,956.0,W,8765.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124734,2023-06-08,504,07:14,Thursday,ENTIRE ROUTE,,General Delay,,20.0,866.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124747,2023-06-08,501,17:05,Thursday,DUNDAS AND MCCAUL,,General Delay,,7.0,369.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124802,2023-06-09,504,19:41,Friday,KING FROM BATHURTST TO,,General Delay,,10.0,424.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124874,2023-06-11,506,12:08,Sunday,COLLEGE AND DUFFERIN,,Diversion,,448.0,458.0,E,4513.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124875,2023-06-11,505,12:13,Sunday,ENTIRE ROUTE,,Diversion,,469.0,479.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124876,2023-06-11,506,12:17,Sunday,ENTIRE ROUTE,,Diversion,,448.0,458.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124877,2023-06-11,505,12:19,Sunday,COLLEGE AND DUFFERIN,,Investigation,,469.0,479.0,W,4458.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124934,2023-06-12,506,17:58,Monday,VICTORIA PARK STATION,,Diversion,,960.0,968.0,W,8732.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124956,2023-06-13,506,15:24,Tuesday,1365 GERRARD AVE,,Diversion,,780.0,787.0,E,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00124965,2023-06-13,506,18:14,Tuesday,VICTORIA PARK STATION,,Diversion,,344.0,352.0,W,8710.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00125167,2023-06-19,505,15:12,Monday,ENTIRE ROUTE,,General Delay,,20.0,533.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00125208,2023-06-20,501,17:56,Tuesday,QUEEN AND TRACY,,Diversion,,430.0,440.0,W,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00125576,2023-07-01,505,20:18,Saturday,QUEEN AND KINGSTON,,Diversion,,258.0,268.0,E,4402.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00125751,2023-07-07,505,12:28,Friday,QUEEN AND CARLAW,,Investigation,,618.0,628.0,E,4469.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00126260,2023-07-20,506,20:49,Thursday,25 COXWELL AVE,,Diversion,,573.0,583.0,E,4462.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00126267,2023-07-21,506,04:17,Friday,KINGSTON ROAD LOOP,,Diversion,,684.0,694.0,,4530.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00126388,2023-07-25,501,08:01,Tuesday,DUNDAS AND RIVER,,Diversion,,369.0,378.0,W,4548.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00126769,2023-08-05,512,16:44,Saturday,CALEDONIA AND ST CLAIR,,Diversion,,250.0,260.0,E,4411.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00126799,2023-08-06,501,16:07,Sunday,QUEEN AND YORK,,Diversion,,340.0,350.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00127358,2023-08-21,510,05:43,Monday,SPADINA AND NASSAU,,Diversion,,424.0,434.0,N,4430.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00127369,2023-08-21,501,11:02,Monday,DUNDAS AND CHURCH,,Diversion,,330.0,338.0,E,4465.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00127486,2023-08-24,512,19:53,Thursday,ST CLAIR AND NORTHCLIF,,Diversion,,399.0,407.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00128547,2023-09-25,513,11:45,Monday,RICHMOND AND VICTORIA,,Diversion,,798.0,808.0,W,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00128599,2023-09-26,301,01:51,Tuesday,QUEEN AND BATHURST,,Diversion,,241.0,309.0,W,4543.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00128600,2023-09-27,301,02:04,Wednesday,OSSINGTON AND QUEEN,,Diversion,,241.0,271.0,,8761.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130284,2023-11-08,506,07:00,Wednesday,HIGH PARK LOOP AND MAI,,General Delay,,300.0,310.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130343,2023-11-09,506,06:30,Thursday,HIGH PARK TO MAIN,,General Delay,,320.0,329.0,,0.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130354,2023-11-09,505,11:40,Thursday,DUNDAS AND BROADVIEW,,Diversion,,244.0,253.0,E,4565.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130892,2023-11-21,304,02:39,Tuesday,KING AND TECUMSETH,,Diversion,,301.0,331.0,,8671.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130963,2023-11-22,503,05:30,Wednesday,QUEEN AND KINGSTON RD,,Diversion,,271.0,281.0,W,4532.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00130964,2023-11-22,501,05:30,Wednesday,QUEEN AND BROADVIEW,,Diversion,,271.0,278.0,E,4599.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00131813,2023-12-07,512,12:46,Thursday,ST CLAIR AND WINONA,,Diversion,,283.0,294.0,W,8813.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00132521,2023-12-21,504,15:54,Thursday,RONCESSVALE AND GEOFFR,,Diversion,,474.0,484.0,N,4494.0,Historical,ttc-streetcar-delay-data-2023.xlsx,2023,,2023
+HIST-00133451,2024-01-09,506,00:18,Tuesday,UNIVERSITY AND COLLEGE,,General Delay,,322.0,332.0,W,4433.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00133458,2024-01-10,310,03:01,Wednesday,SPADINA AND COLLEGE,,Diversion,,322.0,332.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00133895,2024-01-20,511,14:49,Saturday,BATHURST AND COLLEGE,,Collision - TTC Involved,,300.0,310.0,N,4526.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00134124,2024-01-26,512,07:29,Friday,ST CLAIR AND KEELE,,Diversion,,438.0,443.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00134270,2024-01-29,501,14:36,Monday,THE QUEENSWAY (EAST OF,,Diversion,,480.0,490.0,W,4542.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00135075,2024-02-17,506,07:38,Saturday,COXWELL AND GERRARD,,Diversion,,491.0,501.0,S,4604.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00135081,2024-02-17,504,09:00,Saturday,KING AND SPADINA,,Diversion,,438.0,458.0,E,4605.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00135558,2024-02-28,503,18:46,Wednesday,SPADINA AND KING,,Diversion,,250.0,260.0,W,4498.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00136069,2024-03-12,505,13:33,Tuesday,DUNDAS AND SACKVILLE,,Diversion,,640.0,650.0,W,4426.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00136194,2024-03-15,501,17:01,Friday,KING AND CHURCH,,Held By,,248.0,270.0,E,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00136195,2024-03-15,501,17:07,Friday,KING AND CHURCH,,Diversion,,267.0,272.0,E,4521.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00136196,2024-03-15,503,17:10,Friday,KING AND CHURCH,,Diversion,,260.0,270.0,,4451.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00136197,2024-03-15,501,17:13,Friday,ON KING BETWEEN YONGE,,Diversion,,267.0,272.0,E,8101.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00137391,2024-04-12,506,13:42,Friday,COLLEGE AND BROCK,,Diversion,,558.0,568.0,W,4415.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00138213,2024-05-03,501,12:16,Friday,QUEEN AND NEVILLE PARK,,Cleaning - Unsanitary,,61.0,501.0,W,4411.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139003,2024-05-23,501,05:25,Thursday,QUEEN AND ELMER,,Diversion,,333.0,343.0,,4444.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139004,2024-05-23,501,05:25,Thursday,QUEEN EAST AND KINGSTO,,Diversion,,333.0,343.0,E,4444.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139048,2024-05-24,503,13:38,Friday,KINGSTON AND BEECH,,Diversion,,260.0,270.0,E,4454.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139536,2024-06-04,501,09:59,Tuesday,QUEEN AND BAY,,Diversion,,611.0,621.0,E,8130.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139884,2024-06-13,505,19:30,Thursday,DUNDAS AND YONGE,,Diversion,,273.0,283.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139953,2024-06-16,503,10:45,Sunday,QUEEN AND BOULTON,,Diversion,,792.0,802.0,E,4414.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00139954,2024-06-16,504,10:48,Sunday,KING AND YORK,,Rail/Switches,,680.0,690.0,E,4491.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140009,2024-06-17,505,16:01,Monday,DUNDAS AND CRAWFORD,,Diversion,,250.0,259.0,E,4610.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140038,2024-06-18,503,11:54,Tuesday,CHARLOTTE LOOP,,Diversion,,358.0,358.0,W,4477.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140082,2024-06-19,508,12:42,Wednesday,KING AND UNIVERSITY,,Diversion,,873.0,883.0,E,4597.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140170,2024-06-21,505,08:26,Friday,DUNDAS AND SHAW,,General Delay,,345.0,355.0,E,4500.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140632,2024-07-03,504,15:40,Wednesday,QUEEN AND DOWLING,,Collision - TTC Involved,,308.0,318.0,W,4473.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140745,2024-07-06,511,08:10,Saturday,FLEET AND STRACHAN,,Diversion,,250.0,260.0,E,4619.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00140767,2024-07-06,509,14:32,Saturday,EXHIBITION LOOP,,Diversion,,246.0,256.0,E,4507.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00141452,2024-07-23,506,19:18,Tuesday,CARLTON AND PARLIMENT,,Diversion,,442.0,452.0,E,4532.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00141620,2024-07-28,506,05:20,Sunday,LESLIE CARHOUSE,,Operations,,314.0,17.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00141740,2024-07-31,501,16:29,Wednesday,QUEEN AND JARVIS,,Diversion,,271.0,281.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00141742,2024-07-31,501,16:38,Wednesday,QUEEN AND JARVIS,,Diversion,,271.0,281.0,,3344.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00141899,2024-08-03,504,23:53,Saturday,BATHURST AND KING,,Diversion,,269.0,279.0,E,4583.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00142424,2024-08-18,506,16:24,Sunday,GERRARD AND RIVER,,Collision - TTC Involved,,518.0,528.0,W,4482.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00142434,2024-08-18,505,20:59,Sunday,BROADVIEW AND JACK LAY,,Diversion,,231.0,241.0,W,4525.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00142927,2024-08-31,503,17:19,Saturday,SPADINA AND KING,,Diversion,,350.0,360.0,W,4563.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143054,2024-09-04,506,19:48,Wednesday,MAIN AND GERRARD,,Diversion,,250.0,260.0,,4465.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143101,2024-09-05,301,01:43,Thursday,QUEEN AND BROADVIEW,,Diversion,,381.0,401.0,W,4585.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143102,2024-09-06,301,02:50,Friday,QUEEN AND JAMESON,,Diversion,,232.0,252.0,E,4622.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143355,2024-09-12,508,07:10,Thursday,LAKESHORE AND SEVENTH,,Diversion,,703.0,723.0,E,4596.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143357,2024-09-12,507,08:36,Thursday,LAKESHORE AND ISLINGTO,,Diversion,,660.0,670.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00143977,2024-09-28,501,04:27,Saturday,QUEEN AND MCCAUL,,Diversion,,248.0,248.0,E,4546.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00144027,2024-09-29,509,12:06,Sunday,SPADINA AND QUEENS QUA,,Diversion,,276.0,280.0,W,7310.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00144398,2024-10-09,503,17:24,Wednesday,KINGSTON AND SILVER BI,,Diversion,,242.0,252.0,E,8709.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00144917,2024-10-26,600,07:03,Saturday,ST CLAIR AND AVENUE,,Diversion,,898.0,905.0,E,1326.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00145314,2024-11-06,501,10:29,Wednesday,1449 QUEEN STREET WEST,,Diversion,,786.0,796.0,E,4404.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00145331,2024-11-06,301,23:49,Wednesday,QUEEN AND JAMESON,,Diversion,,304.0,319.0,E,4404.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00145334,2024-11-07,501,02:18,Thursday,QUEEN AND JAMESON,,Rail/Switches,,448.0,458.0,W,4607.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00145518,2024-11-12,501,04:00,Tuesday,QUEEN AND GLADSTONE,,Diversion,,250.0,260.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146031,2024-11-28,511,07:00,Thursday,WOLSELEY LOOP,,Diversion,,920.0,930.0,,7009.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146112,2024-11-30,501,16:06,Saturday,QUEEN AND UNIVERSITY,,Diversion,,374.0,384.0,,4537.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146358,2024-12-07,510,05:38,Saturday,SPADINA AND SULLIVAN,,Diversion,,311.0,315.0,S,8626.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146702,2024-12-17,501,08:52,Tuesday,CHURCH AND RICHMOND,,Overhead,,482.0,491.0,W,4491.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146703,2024-12-17,501,09:00,Tuesday,RICHMOND AND CHURCH,,Diversion,,482.0,491.0,W,4491.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146705,2024-12-17,506,09:35,Tuesday,KING AND SUDBURY,,Overhead,,307.0,317.0,E,4486.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146707,2024-12-17,504,10:19,Tuesday,RICHMOND AND YORK,,Collision - TTC Involved,,400.0,410.0,W,4494.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146717,2024-12-17,511,17:13,Tuesday,BATHURST AND KING,,Overhead,,373.0,383.0,S,4517.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146728,2024-12-18,503,02:40,Wednesday,BINGHAM LOOP - SUNNYSI,,Diversion,,294.0,314.0,,4438.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146729,2024-12-18,504,03:19,Wednesday,KING AND SUDBURY,,Diversion,,261.0,276.0,E,4532.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00146846,2024-12-21,512,05:41,Saturday,ST CLAIR W AND GREENLA,,Diversion,,294.0,304.0,,0.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00147181,2024-12-31,303,02:01,Tuesday,BINGHAM LOOP,,Diversion,,294.0,314.0,,4588.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+HIST-00147205,2024-12-31,506,13:01,Tuesday,GERRARD AND RIVER,,General Delay,,441.0,451.0,W,4605.0,Historical,ttc-streetcar-delay-data-2024.xlsx,Data,,2024
+175.0,2025-01-06,501 QUEEN,14:17,Monday,QUEEN AND SUMACH,MTDV,,,780.0,790.0,E,4562.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,174.0,2025
+193.0,2025-01-07,501 QUEEN,03:44,Tuesday,QUEEN AND SUMACH,MTDV,,,540.0,550.0,,4565.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,192.0,2025
+476.0,2025-01-16,506 CARLTON,02:13,Thursday,COLLEGE AND UNIVERSITY,MTDV,,,263.0,293.0,E,4523.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,475.0,2025
+590.0,2025-01-19,503 KINGSTON ROAD,03:08,Sunday,BINGHAM LOOP,MTDV,,,255.0,285.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,589.0,2025
+1459.0,2025-02-11,504 KING,17:51,Tuesday,KING AND DUFFERIN,MTDV,,,513.0,523.0,W,4644.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1458.0,2025
+1531.0,2025-02-13,506 CARLTON,04:29,Thursday,DUNDAS AND COLLEGE,TTO,,,694.0,704.0,E,4638.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1530.0,2025
+1621.0,2025-02-14,508 LAKESHORE,07:03,Friday,RONCESVALLES YARD,MTNOA,,,218.0,241.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1620.0,2025
+1825.0,2025-02-16,504 KING,05:35,Sunday,LESLIE BARNS,MTNOA,,,255.0,0.0,,4606.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1824.0,2025
+1852.0,2025-02-16,512 ST. CLAIR,13:01,Sunday,GUNNS LOOP,TTPD,,,287.0,295.0,,4438.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1851.0,2025
+1950.0,2025-02-17,509 HARBOURFRONT,06:43,Monday,QUEENS QUAY AND SPADIN,MTWEA,,,324.0,334.0,W,4442.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1949.0,2025
+2127.0,2025-02-18,504 KING,17:37,Tuesday,RONCESVALLES AND QUEEN,MTAFR,,,831.0,841.0,W,4467.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2126.0,2025
+2585.0,2025-02-22,503 KINGSTON ROAD,20:58,Saturday,KINGSTON AND BEECH,MTDV,,,231.0,243.0,E,4427.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2584.0,2025
+2659.0,2025-02-23,501 QUEEN,14:14,Sunday,QUEEN AND SCARBOROUGH,MTAFR,,,738.0,748.0,W,4580.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2658.0,2025
+2709.0,2025-02-24,504 KING,06:34,Monday,RONCESVALLES AND HOWAR,MTAFR,,,840.0,850.0,S,4445.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2708.0,2025
+2742.0,2025-02-24,504 KING,16:58,Monday,RONCEVALLES AND HIGH P,MTAFR,,,600.0,610.0,N,4411.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2741.0,2025
+2790.0,2025-02-25,504 KING,11:29,Tuesday,RONCESVALLES AND HIGH,MTAFR,,,840.0,850.0,W,4530.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2789.0,2025
+2940.0,2025-02-28,504 KING,18:10,Friday,RONCESVALLES AND GALLE,MTAFR,,,307.0,317.0,N,4488.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2939.0,2025
+2981.0,2025-03-01,504 KING,14:13,Saturday,DUFFERIN AND THORBURN,STDP,,,324.0,324.0,S,4590.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2980.0,2025
+3589.0,2025-03-18,505 DUNDAS,21:19,Tuesday,DUNDAS AND CHURCH,MTPI,,,435.0,445.0,E,4424.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3588.0,2025
+3633.0,2025-03-20,501 QUEEN,11:14,Thursday,QUEEN AND STRACHAN,TTPD,,,50.0,606.0,W,4448.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3632.0,2025
+3634.0,2025-03-20,509 HARBOURFRONT,11:30,Thursday,BATHURST AND LAKESHORE,MTDV,,,360.0,370.0,N,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3633.0,2025
+3979.0,2025-03-29,506 CARLTON,21:18,Saturday,MAIN AND DANFORTH,MTWEA,,,313.0,323.0,E,4424.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3978.0,2025
+3981.0,2025-03-29,506 CARLTON,21:25,Saturday,MAIN AND GERRARD,MTWEA,,,387.0,397.0,N,4462.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3980.0,2025
+3985.0,2025-03-29,503 KINGSTON ROAD,22:39,Saturday,KINGSTON AND SCARBOROU,MTWEA,,,367.0,377.0,S,4529.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3984.0,2025
+4003.0,2025-03-30,503 KINGSTON ROAD,05:59,Sunday,KING AND PORTLAND,MTDV,,,411.0,431.0,E,4469.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4002.0,2025
+4004.0,2025-03-30,503 KINGSTON ROAD,06:16,Sunday,QUEEN AND GREENWOOD,STO,,,411.0,431.0,E,4469.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4003.0,2025
+4005.0,2025-03-30,512 ST. CLAIR,06:24,Sunday,ST CLAIR AND WINONA,ETLV,,,245.0,300.0,W,4528.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4004.0,2025
+4034.0,2025-03-30,509 HARBOURFRONT,20:01,Sunday,LAKE SHORE AND BATHURS,MFDV,,,358.0,368.0,E,7296.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4033.0,2025
+4329.0,2025-04-07,507 LONG BRANCH,15:11,Monday,LAKESHORE AND FIFTH,MTDV,,,270.0,280.0,E,4561.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4328.0,2025
+4442.0,2025-04-10,503 KINGSTON ROAD,14:12,Thursday,QUEEN E AND KING E,MTDV,,,334.0,344.0,W,4447.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4441.0,2025
+4443.0,2025-04-10,504 KING,14:30,Thursday,QUEEN E AND KING E,MTDV,,,335.0,345.0,W,4510.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4442.0,2025
+4444.0,2025-04-10,,14:33,Thursday,QUEEN AND KING,MTDV,,,335.0,344.0,W,4549.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4443.0,2025
+4449.0,2025-04-10,508 LAKESHORE,15:54,Thursday,KING AND QUEEN,MTDV,,,335.0,335.0,,4545.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4448.0,2025
+4490.0,2025-04-11,505 DUNDAS,15:56,Friday,DUNDAS BETWEEN DUFFERI,MTDV,,,326.0,336.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4489.0,2025
+4672.0,2025-04-16,303 KINGSTON ROAD NIGH,04:19,Wednesday,SUNNYSIDE LOOP,STDP,,,14.0,342.0,W,4621.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4671.0,2025
+4810.0,2025-04-19,500,15:41,Saturday,LESLIE CARHOUSE,MTNOA,,,585.0,0.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4809.0,2025
+4898.0,2025-04-21,,13:15,Monday,RUSSELL CARHOUSE,MTNOA,,,585.0,0.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4897.0,2025
+5497.0,2025-05-08,503 KINGSTON ROAD,10:38,Thursday,KINGSTON AND KINGTON L,MTO,,,696.0,706.0,W,4477.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5496.0,2025
+6013.0,2025-05-21,511 BATHURST,11:50,Wednesday,BATHURST AND DUNDAS,PTO,,,262.0,272.0,S,4581.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6012.0,2025
+6014.0,2025-05-21,509 HARBOURFRONT,11:50,Wednesday,FLEET AND FORT YORK,MFDV,,,262.0,272.0,W,1364.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6013.0,2025
+6150.0,2025-05-24,999,05:10,Saturday,RONCESVALLES CAR HOUSE,MTNOA,,,585.0,0.0,E,4580.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6149.0,2025
+6796.0,2025-06-08,705,13:00,Sunday,LESLIE BARNS,MTNOA,,,585.0,0.0,N,4454.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6795.0,2025
+6971.0,2025-06-12,503 KINGSTON ROAD,15:26,Thursday,KING AND ATLANTIC,MTAFR,,,325.0,335.0,W,4610.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6970.0,2025
+6972.0,2025-06-12,504 KING,15:27,Thursday,KING AND ATLANTIC,MTDV,,,325.0,335.0,W,4483.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6971.0,2025
+7265.0,2025-06-19,505 DUNDAS,06:05,Thursday,DUNDAS AND BATHURST,TTSW,,,423.0,438.0,S,4499.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7264.0,2025
+7271.0,2025-06-19,512 ST. CLAIR,10:45,Thursday,56 CARLYLE STREET,MTO,,,266.0,274.0,N,4454.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7270.0,2025
+7469.0,2025-06-23,510 SPADINA,21:39,Monday,SPADINA AND COLLEGE,PTOV,,,260.0,270.0,S,4527.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7468.0,2025
+7727.0,2025-06-30,501 QUEEN,04:25,Monday,QUEEN AND SILVER BIRCH,MTAFR,,,297.0,307.0,E,4588.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7726.0,2025
+7891.0,2025-07-05,512 ST. CLAIR,09:06,Saturday,OAKWOOD LOOP,PTOV,,,293.0,301.0,,4513.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7890.0,2025
+7917.0,2025-07-05,505 DUNDAS,19:24,Saturday,DUNDAS AND MARKHAM,MTDV,,,244.0,252.0,,4625.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7916.0,2025
+8159.0,2025-07-12,506 CARLTON,17:19,Saturday,COLLEGE AND BAY,PTOV,,,235.0,245.0,E,4415.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8158.0,2025
+8167.0,2025-07-12,506 CARLTON,22:21,Saturday,COLLEGE AND CRAWFORD,MTUI,,,265.0,275.0,E,4415.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8166.0,2025
+8589.0,2025-07-23,504 KING,21:41,Wednesday,QUEEN AND SPADINA,MTAFR,,,296.0,306.0,W,4416.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8588.0,2025
+9410.0,2025-08-14,301 QUEEN NIGHT,02:27,Thursday,QUEEN AND DVP BRIDGE,PTOV,,,240.0,260.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9409.0,2025
+9411.0,2025-08-14,303 KINGSTON ROAD NIGH,02:29,Thursday,QUEEN AND DVP BRIDGE,PTOV,,,240.0,260.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9410.0,2025
+9412.0,2025-08-14,304 KING NIGHT,02:30,Thursday,QUEEN AND DVP BRIDGE,PTOV,,,240.0,260.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9411.0,2025
+10053.0,2025-08-29,505 DUNDAS,20:21,Friday,DUNDAS AND MCCAUL,MTAFR,,,240.0,250.0,W,4480.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10052.0,2025
+10527.0,2025-09-14,505 DUNDAS,18:29,Sunday,DUNDAS AND BLOOR,MTDV,,,489.0,499.0,N,4405.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10526.0,2025
+11277.0,2025-10-08,501 QUEEN,15:27,Wednesday,QUEEN AND UNIVERSITY,MTDV,,,357.0,367.0,W,4555.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11276.0,2025
+11380.0,2025-10-11,501 QUEEN,18:51,Saturday,QUEEN AND NIAGARA,MTDV,,,690.0,700.0,W,4546.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11379.0,2025
+11505.0,2025-10-15,501 QUEEN,02:29,Wednesday,QUEEN AND NIAGARA,MTDV,,,578.0,588.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11504.0,2025
+11681.0,2025-10-20,504 KING,10:03,Monday,QUEEN AND DOVERCOURT,MTDV,,,247.0,257.0,E,4474.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11680.0,2025
+11682.0,2025-10-20,501 QUEEN,10:18,Monday,QUEEN AND DOVERCOUT,MTDV,,,247.0,257.0,E,4585.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11681.0,2025
+11683.0,2025-10-20,504 KING,10:21,Monday,DUNDAS WEST STATION,MTDV,,,244.0,254.0,E,4458.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11682.0,2025
+11684.0,2025-10-20,504 KING,10:23,Monday,QUEEN AND DOVERCOURT,MTDV,,,235.0,245.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11683.0,2025
+12540.0,2025-11-12,301 QUEEN NIGHT,02:00,Wednesday,CHURCH AND QUEEN,MTPOL,,,287.0,307.0,N,4544.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12539.0,2025
+12545.0,2025-11-12,501 QUEEN,04:32,Wednesday,QUEEN AND CHURCH,MTDV,,,440.0,450.0,E,4567.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12544.0,2025
+13018.0,2025-11-25,504 KING,04:45,Tuesday,KING AND SPADINA,STO,,,726.0,736.0,W,4414.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13017.0,2025
+13025.0,2025-11-25,509 HARBOURFRONT,10:38,Tuesday,QUEENS QUAY AND HARBOU,MTDV,,,238.0,248.0,W,4546.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13024.0,2025
+13114.0,2025-11-27,512 ST. CLAIR,19:47,Thursday,ST CLAIR AND OLD WESTO,MTDV,,,236.0,242.0,,4617.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13113.0,2025
+13539.0,2025-12-08,505 DUNDAS,10:20,Monday,BROADVIEW AND MOUNTSTE,MTDV,,,558.0,604.0,S,4447.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13538.0,2025
+13629.0,2025-12-11,501 QUEEN,03:59,Thursday,QUEEN AND JOHN,MTDV,,,265.0,275.0,E,4600.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13628.0,2025
+14224.0,2025-12-26,506 CARLTON,10:03,Friday,DUNDAS AND COLLEGE,TTO,,,355.0,365.0,E,4504.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14223.0,2025
+14227.0,2025-12-26,505 DUNDAS,10:20,Friday,DUNDAS AND COLLEGE,MTDV,,,362.0,368.0,,4405.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14226.0,2025
+14248.0,2025-12-26,504 KING,19:56,Friday,KING AND JOE SHUSTER T,MTDV,,,38.0,396.0,W,4450.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14247.0,2025
+14352.0,2025-12-29,506 CARLTON,11:25,Monday,HIGH PARK LOOP,MTDV,,,249.0,259.0,,4657.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14351.0,2025
+14821.0,2026-01-12,504 KING,17:33,Monday,KING AND LOWER SHERBOU,MTDV,,,575.0,585.0,E,4415.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14820.0,2026
+14822.0,2026-01-12,503 KINGSTON ROAD,17:44,Monday,KING AND SHERBOURNE,MFDV,,,558.0,568.0,,8859.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14821.0,2026
+14823.0,2026-01-12,504 KING,18:58,Monday,FRONT AND BERKELEY,MFDV,,,452.0,462.0,E,8820.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14822.0,2026
+15182.0,2026-01-22,501 QUEEN,10:53,Thursday,RICHMOND AND BAY,MTEC,,,348.0,358.0,W,4576.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15181.0,2026
+15281.0,2026-01-24,504 KING,21:07,Saturday,KING AND NIAGARA,MTDV,,,310.0,320.0,E,4472.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15280.0,2026
+15324.0,2026-01-25,501 QUEEN,15:49,Sunday,QUEEN AND NIAGARA,MTDV,,,335.0,345.0,E,4556.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15323.0,2026
+15930.0,2026-02-03,510 SPADINA,11:56,Tuesday,QUEENS QUAY TUNNEL,MTAFR,,,253.0,263.0,,4663.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15929.0,2026
+15931.0,2026-02-03,509 HARBOURFRONT,11:57,Tuesday,QUEENS QUAY TUNNEL,TTPD,,,253.0,263.0,,4655.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15930.0,2026
+16048.0,2026-02-06,509 HARBOURFRONT,16:36,Friday,QUEENS QUAY STATION,PTO,,,454.0,464.0,,4579.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16047.0,2026
+16051.0,2026-02-06,510 SPADINA,17:40,Friday,QUEENS QUAY AND HARBOU,MTDV,,,485.0,495.0,S,4663.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16050.0,2026
+16281.0,2026-02-12,504 KING,06:28,Thursday,KING AND ATLANTIC,MTO,,,740.0,750.0,E,4412.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16280.0,2026
+16282.0,2026-02-12,504 KING,06:30,Thursday,DUFFERIN AND KING,MTDV,,,740.0,750.0,,4483.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16281.0,2026
+16436.0,2026-02-16,501 QUEEN,16:54,Monday,QUEEN AND PORTLAND,MTDV,,,248.0,258.0,W,4584.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16435.0,2026
+16484.0,2026-02-17,506 CARLTON,19:26,Tuesday,1614 QUEEN ST EAST,TTPD,,,10.0,260.0,,4618.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16483.0,2026
+16818.0,2026-02-26,503 KINGSTON ROAD,22:57,Thursday,BROADVIEW AND DUNDAS,MFDV,,,922.0,932.0,W,8794.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16817.0,2026
+16937.0,2026-03-01,503 KINGSTON ROAD,15:52,Sunday,FRONT AND PARLIAMENT,MFDV,,,240.0,250.0,W,8333.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16936.0,2026
+17033.0,2026-03-04,506 CARLTON,06:53,Wednesday,HIGH PARK LOOP,MTDV,,,600.0,610.0,,4479.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17032.0,2026
+17086.0,2026-03-05,705,13:10,Thursday,LESLIE BARNS,MTCL,,,585.0,0.0,,4616.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17085.0,2026
+17267.0,2026-03-09,501 QUEEN,22:30,Monday,QUEEN AND KINGSTON,MTDV,,,245.0,255.0,W,4554.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17266.0,2026
+17270.0,2026-03-09,301 QUEEN NIGHT,00:55,Monday,QUEEN AND COXWELL,MTDV,,,245.0,260.0,W,4564.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17269.0,2026
+17282.0,2026-03-10,504 KING,08:18,Tuesday,KING AND BERKELEY,MFDV,,,999.0,999.0,,8777.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17281.0,2026
+17359.0,2026-03-12,504 KING,07:56,Thursday,KING AND BERKLEY,MFDV,,,597.0,584.0,W,8750.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17358.0,2026
+17406.0,2026-03-13,504 KING,07:36,Friday,BERKELEY AND KING,MFDV,,,591.0,598.0,N,8663.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17405.0,2026
+17437.0,2026-03-14,504 KING,13:29,Saturday,1165 LAKE SHORE BLVD,MTDV,,,338.0,348.0,W,4496.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17436.0,2026
+17438.0,2026-03-14,501 QUEEN,13:55,Saturday,QUEEN AND UNIVERSIT,MTPR,,,320.0,329.0,,4484.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17437.0,2026
+17440.0,2026-03-14,505 DUNDAS,14:00,Saturday,DUNDAS W AND SPADINA,MTDV,,,299.0,305.0,W,4486.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17439.0,2026
+17441.0,2026-03-14,506 CARLTON,14:03,Saturday,DUNDAS AND SIMCOE,MTDV,,,300.0,308.0,E,4419.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17440.0,2026
+17445.0,2026-03-14,505 DUNDAS,15:29,Saturday,UNIVERSITY AND DUNDAS,MTPR,,,299.0,305.0,,4486.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17444.0,2026
+17614.0,2026-03-18,501 QUEEN,23:28,Wednesday,QUEEN AND EUCLID,MTO,,,277.0,292.0,E,4612.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17613.0,2026
+17616.0,2026-03-18,501 QUEEN,23:38,Wednesday,RICHMOND AND YORK,PTO,,,277.0,292.0,,4612.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17615.0,2026
+17619.0,2026-03-18,501 QUEEN,00:14,Wednesday,QUEEN AND MCCAUL,MTDV,,,277.0,292.0,W,4612.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17618.0,2026
+17621.0,2026-03-18,301 QUEEN NIGHT,01:30,Wednesday,KING AND SUDBURY,ETTR,,,277.0,292.0,E,4594.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17620.0,2026
+18028.0,2026-03-29,505 DUNDAS,07:31,Sunday,DUNDAS AND MARKHAM,MTDV,,,499.0,505.0,W,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18027.0,2026
+18765.0,2026-04-15,512 ST. CLAIR,12:46,Wednesday,DAVENPORT AND BATHURST,MTDV,,,823.0,829.0,,4431.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18764.0,2026
+18956.0,2026-04-20,509 HARBOURFRONT,10:10,Monday,BATHURST AND LAKESHORE,MTO,,,293.0,393.0,N,4466.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18955.0,2026
+18975.0,2026-04-20,511 BATHURST,17:21,Monday,FLEET AND STRACHAN,MTO,,,293.0,393.0,E,4650.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18974.0,2026
+19124.0,2026-04-23,501 QUEEN,20:32,Thursday,QUEEN AND BEACONSFIELD,PTO,,,258.0,268.0,W,4557.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19123.0,2026
+19587.0,2026-05-04,312 ST. CLAIR NIGHT,02:28,Monday,ST CLAIR WEST STATION,PTOV,,,221.0,241.0,,4621.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19586.0,2026
+19657.0,2026-05-05,506 CARLTON,16:22,Tuesday,HOWARD PARK AND RONCES,MTPI,,,240.0,250.0,,4483.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19656.0,2026
+20077.0,2026-05-14,505 DUNDAS,10:46,Thursday,BROADVIEW AND HOGARTH,PTOV,,,303.0,309.0,S,4526.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20076.0,2026
+20078.0,2026-05-14,504 KING,10:59,Thursday,BROADVIEW STATION,MTDV,,,301.0,311.0,,4634.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20077.0,2026
+20079.0,2026-05-14,505 DUNDAS,11:04,Thursday,DUNDAS AND PARLIAMENT,MTDV,,,303.0,309.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20078.0,2026
+20080.0,2026-05-14,506 CARLTON,11:38,Thursday,BROADVIEW AND KINTYRE,MTDV,,,293.0,303.0,N,4443.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20079.0,2026
+20230.0,2026-05-17,505 DUNDAS,20:29,Sunday,DUNDAS AND DUFFERIN,PTOV,,,319.0,329.0,W,4618.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20229.0,2026
+20302.0,2026-05-19,510 SPADINA,22:00,Tuesday,SPADINA TO KING,MTEC,,,420.0,430.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20301.0,2026
+20395.0,2026-05-22,506 CARLTON,12:33,Friday,PARLIAMENT AND GERRARD,MTAFR,,,243.0,253.0,W,4518.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20394.0,2026
+20810.0,2026-06-03,504 KING,08:02,Wednesday,KING AND JEFFERSON,PTOV,,,460.0,470.0,E,4469.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20809.0,2026
+21013.0,2026-06-09,501 QUEEN,14:53,Tuesday,QUEEN AND ONTARIO,PTOV,,,232.0,242.0,E,4531.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21012.0,2026
+21118.0,2026-06-13,306 CARLTON NIGHT,04:23,Saturday,HIGH PARK LOOP,MTAFR,,,361.0,377.0,,4466.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21117.0,2026
+21359.0,2026-06-19,505 DUNDAS,11:21,Friday,BROADVIEW STATION,ETBO,,,26.0,322.0,W,4581.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21358.0,2026
+21419.0,2026-06-20,507 LONG BRANCH - 500,20:24,Saturday,15TH AND LAKESHORE,MFDV,,,569.0,579.0,,8369.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21418.0,2026
+21545.0,2026-06-25,507 LONG BRANCH,12:13,Thursday,QUEENSWAY AND HUMBER L,MFDV,,,240.0,247.0,E,3283.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21544.0,2026
+21767.0,2026-07-02,504 KING (B-BRANCH),19:26,Thursday,KING AND SPADINA,MTDV,,,300.0,310.0,W,4604.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21766.0,2026
+22042.0,2026-07-11,999,21:31,Saturday,ST CLAIR AND CHRISTIE,MFDV,,,280.0,290.0,W,8356.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22041.0,2026
+22049.0,2026-07-12,312 ST. CLAIR NIGHT,02:22,Sunday,ST CLAIR AND ARLINGTON,MTDV,,,274.0,294.0,,4507.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22048.0,2026
+22299.0,2026-07-20,507 LONG BRANCH,02:19,Monday,QUEENSWAY AND HIGH ST,MFDV,,,220.0,260.0,W,8142.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22298.0,2026
+22304.0,2026-07-20,507 LONG BRANCH,04:31,Monday,HUMBER LOOP,MFDV,,,306.0,314.0,,8306.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22303.0,2026
+22644.0,2026-07-31,504 KING,18:26,Friday,KING AND QUEEN,TTPI,,,380.0,390.0,E,4484.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22643.0,2026
+22645.0,2026-07-31,503 KINGSTON ROAD,18:36,Friday,KING AND SUMACH,MTDV,,,380.0,390.0,E,6646.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22644.0,2026
+22706.0,2026-08-02,501 QUEEN,13:36,Sunday,HUMBER LOOP,MTUI,,,243.0,253.0,W,4582.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22705.0,2026
+22711.0,2026-08-02,507 LONG BRANCH,15:51,Sunday,THE QUEENSWAY AND PARK,MFDV,,,251.0,261.0,E,8331.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22710.0,2026
+22713.0,2026-08-02,510 SPADINA,17:34,Sunday,QUEENS QUAY AND REES,TTPD,,,252.0,256.0,W,4499.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22712.0,2026
+22714.0,2026-08-02,509 HARBOURFRONT,17:38,Sunday,QUEENS QUAY AND REES,MTDV,,,247.0,254.0,W,4567.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22713.0,2026
+22880.0,2026-08-08,301 QUEEN NIGHT,03:26,Saturday,QUEEN AND BATHURST,TTPD,,,651.0,661.0,W,4571.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22879.0,2026
+22916.0,2026-08-09,507 LONG BRANCH,04:20,Sunday,LAKESHORE AND THIRTYSE,MFDV,,,350.0,360.0,,8127.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22915.0,2026
+23490.0,2026-08-25,505 DUNDAS,02:03,Tuesday,DUNDAS AND SHERBOURNE,MTDV,,,377.0,387.0,E,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23489.0,2026
+23492.0,2026-08-25,306 CARLTON NIGHT,02:55,Tuesday,DUNDAS AND SHERBOURNE,MTDV,,,260.0,280.0,E,4502.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23491.0,2026
+23495.0,2026-08-25,506 CARLTON,04:17,Tuesday,PARLIAMENT AND DUNDAS,PTOV,,,416.0,426.0,,4401.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23494.0,2026
+24077.0,2026-09-11,512 ST. CLAIR,21:13,Friday,ST CLAIR AND OLD WESTO,MFDV,,,285.0,295.0,W,8465.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24076.0,2026
+24113.0,2026-09-12,512 ST. CLAIR,20:56,Saturday,ST CLAIR AND OLD WESTO,MFDV,,,299.0,309.0,W,8521.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24112.0,2026
+24115.0,2026-09-12,503 KINGSTON ROAD,21:47,Saturday,YORK AND KING,MFDV,,,328.0,338.0,N,8817.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24114.0,2026
+24144.0,2026-09-13,512 ST. CLAIR,21:00,Sunday,ST. CLAIR AND OLD WEST,MFDV,,,289.0,299.0,W,8459.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24143.0,2026
+24183.0,2026-09-14,505 DUNDAS,16:56,Monday,DUNDAS AND UNIVERSITY,MTDV,,,355.0,361.0,E,4482.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24182.0,2026
+24419.0,2026-09-21,506 CARLTON,10:13,Monday,COLLEGE AND SPADINA,MFDV,,,365.0,375.0,W,8160.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24418.0,2026
+24442.0,2026-09-22,512 ST. CLAIR,05:55,Tuesday,LANSDOWNE AND ST CLAIR,MFDV,,,376.0,385.0,N,8571.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24441.0,2026
+24541.0,2026-09-25,504 KING,04:37,Friday,KING AND PORTLAND,MTDV,,,824.0,824.0,E,4616.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24540.0,2026

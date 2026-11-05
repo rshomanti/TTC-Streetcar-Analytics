@@ -1,0 +1,4 @@
+Description_Status,Incident_Records,Distinct_Code_Groups,Record_Percentage
+Matched,21176,75,85.51122597318688
+Missing Incident Code,1,1,0.0040381198513971895
+Unmatched,3587,74,14.484735906961719

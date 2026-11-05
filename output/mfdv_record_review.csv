@@ -1,0 +1,188 @@
+Record_ID,Report_Date,Route,Report_Time,Day_of_Week,Location,Incident_Code,Incident_Description,Incident_ID,Min_Delay,Min_Gap,Direction,Vehicle_ID,Data_Period,Source_File,Source_Sheet,count,Route_Code,Service_Type,Mapping_Status,Route_Notes
+17282.0,2026-03-10,504 KING,08:18,Tuesday,KING AND BERKELEY,MFDV,,,999.0,999.0,,8777.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17281.0,504.0,Regular,Classified,Recognized route alias
+16818.0,2026-02-26,503 KINGSTON ROAD,22:57,Thursday,BROADVIEW AND DUNDAS,MFDV,,,922.0,932.0,W,8794.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16817.0,503.0,Regular,Classified,Recognized route alias
+17359.0,2026-03-12,504 KING,07:56,Thursday,KING AND BERKLEY,MFDV,,,597.0,584.0,W,8750.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17358.0,504.0,Regular,Classified,Recognized route alias
+17406.0,2026-03-13,504 KING,07:36,Friday,BERKELEY AND KING,MFDV,,,591.0,598.0,N,8663.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17405.0,504.0,Regular,Classified,Recognized route alias
+21419.0,2026-06-20,507 LONG BRANCH - 500,20:24,Saturday,15TH AND LAKESHORE,MFDV,,,569.0,579.0,,8369.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21418.0,,Unknown,Needs Review,Requires manual review
+14822.0,2026-01-12,503 KINGSTON ROAD,17:44,Monday,KING AND SHERBOURNE,MFDV,,,558.0,568.0,,8859.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14821.0,503.0,Regular,Classified,Recognized route alias
+14823.0,2026-01-12,504 KING,18:58,Monday,FRONT AND BERKELEY,MFDV,,,452.0,462.0,E,8820.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14822.0,504.0,Regular,Classified,Recognized route alias
+24442.0,2026-09-22,512 ST. CLAIR,05:55,Tuesday,LANSDOWNE AND ST CLAIR,MFDV,,,376.0,385.0,N,8571.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24441.0,512.0,Regular,Classified,Recognized route alias
+24419.0,2026-09-21,506 CARLTON,10:13,Monday,COLLEGE AND SPADINA,MFDV,,,365.0,375.0,W,8160.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24418.0,506.0,Regular,Classified,Recognized route alias
+4034.0,2025-03-30,509 HARBOURFRONT,20:01,Sunday,LAKE SHORE AND BATHURS,MFDV,,,358.0,368.0,E,7296.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4033.0,509.0,Regular,Classified,Recognized route alias
+22916.0,2026-08-09,507 LONG BRANCH,04:20,Sunday,LAKESHORE AND THIRTYSE,MFDV,,,350.0,360.0,,8127.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22915.0,507.0,Regular,Classified,Recognized route alias
+24115.0,2026-09-12,503 KINGSTON ROAD,21:47,Saturday,YORK AND KING,MFDV,,,328.0,338.0,N,8817.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24114.0,503.0,Regular,Classified,Recognized route alias
+22304.0,2026-07-20,507 LONG BRANCH,04:31,Monday,HUMBER LOOP,MFDV,,,306.0,314.0,,8306.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22303.0,507.0,Regular,Classified,Recognized route alias
+24113.0,2026-09-12,512 ST. CLAIR,20:56,Saturday,ST CLAIR AND OLD WESTO,MFDV,,,299.0,309.0,W,8521.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24112.0,512.0,Regular,Classified,Recognized route alias
+24144.0,2026-09-13,512 ST. CLAIR,21:00,Sunday,ST. CLAIR AND OLD WEST,MFDV,,,289.0,299.0,W,8459.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24143.0,512.0,Regular,Classified,Recognized route alias
+24077.0,2026-09-11,512 ST. CLAIR,21:13,Friday,ST CLAIR AND OLD WESTO,MFDV,,,285.0,295.0,W,8465.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24076.0,512.0,Regular,Classified,Recognized route alias
+22042.0,2026-07-11,999,21:31,Saturday,ST CLAIR AND CHRISTIE,MFDV,,,280.0,290.0,W,8356.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22041.0,,Other Numeric,Needs Review,Unverified numeric identifier
+6014.0,2025-05-21,509 HARBOURFRONT,11:50,Wednesday,FLEET AND FORT YORK,MFDV,,,262.0,272.0,W,1364.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6013.0,509.0,Regular,Classified,Recognized route alias
+22711.0,2026-08-02,507 LONG BRANCH,15:51,Sunday,THE QUEENSWAY AND PARK,MFDV,,,251.0,261.0,E,8331.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22710.0,507.0,Regular,Classified,Recognized route alias
+21545.0,2026-06-25,507 LONG BRANCH,12:13,Thursday,QUEENSWAY AND HUMBER L,MFDV,,,240.0,247.0,E,3283.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21544.0,507.0,Regular,Classified,Recognized route alias
+16937.0,2026-03-01,503 KINGSTON ROAD,15:52,Sunday,FRONT AND PARLIAMENT,MFDV,,,240.0,250.0,W,8333.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16936.0,503.0,Regular,Classified,Recognized route alias
+22299.0,2026-07-20,507 LONG BRANCH,02:19,Monday,QUEENSWAY AND HIGH ST,MFDV,,,220.0,260.0,W,8142.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22298.0,507.0,Regular,Classified,Recognized route alias
+24443.0,2026-09-22,507 LONG BRANCH,08:37,Tuesday,HUMBER LOOP,MFDV,,,208.0,198.0,,8302.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24442.0,507.0,Regular,Classified,Recognized route alias
+14660.0,2026-01-07,504 KING,23:53,Wednesday,QUEEN AND KING - EAST,MFDV,,,186.0,196.0,,8624.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14659.0,504.0,Regular,Classified,Recognized route alias
+5950.0,2025-05-19,511 BATHURST,22:24,Monday,FLEET AND FORT YORK,MFDV,,,180.0,190.0,N,8743.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5949.0,511.0,Regular,Classified,Recognized route alias
+10346.0,2025-09-08,501 QUEEN,06:37,Monday,QUEEN AND DUFFERIN,MFDV,,,179.0,189.0,E,3007.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10345.0,501.0,Regular,Classified,Recognized route alias
+5668.0,2025-05-12,511 BATHURST,22:58,Monday,RICHMOND AND BATHURST,MFDV,,,172.0,182.0,W,8712.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5667.0,511.0,Regular,Classified,Recognized route alias
+16588.0,2026-02-20,503 KINGSTON ROAD,18:26,Friday,KINGSTON AND DUNDAS,MFDV,,,147.0,157.0,E,8819.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16587.0,503.0,Regular,Classified,Recognized route alias
+17661.0,2026-03-19,503 KINGSTON ROAD,23:41,Thursday,EASTERN AND BROADVIEW,MFDV,,,139.0,139.0,W,8350.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17660.0,503.0,Regular,Classified,Recognized route alias
+18794.0,2026-04-16,500,17:00,Thursday,GUNNS LOOP,MFDV,,,135.0,136.0,E,6089.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18793.0,,Other Numeric,Needs Review,Unverified numeric identifier
+24271.0,2026-09-16,503 KINGSTON ROAD,17:47,Wednesday,KING AND PARLIAMENT,MFDV,,,130.0,137.0,E,8689.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24270.0,503.0,Regular,Classified,Recognized route alias
+17249.0,2026-03-09,504 KING,09:31,Monday,BERKELEY AND KING,MFDV,,,123.0,124.0,N,6676.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17248.0,504.0,Regular,Classified,Recognized route alias
+17241.0,2026-03-09,504 KING,07:28,Monday,BERKLEY AND KING,MFDV,,,123.0,124.0,N,8812.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17240.0,504.0,Regular,Classified,Recognized route alias
+21904.0,2026-07-07,504 KING,12:13,Tuesday,CHERRY AND EASTERN,MFDV,,,119.0,127.0,,4492.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21903.0,504.0,Regular,Classified,Recognized route alias
+24564.0,2026-09-25,506 CARLTON,18:31,Friday,WELLESLEY AND YONGE,MFDV,,,118.0,128.0,W,7224.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24563.0,506.0,Regular,Classified,Recognized route alias
+23338.0,2026-08-21,301 QUEEN NIGHT,03:33,Friday,QUEENSWAY AND SUNNYSID,MFDV,,,110.0,140.0,W,8206.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23337.0,301.0,Night,Classified,Night-service label
+23815.0,2026-09-03,507 LONG BRANCH,23:47,Thursday,PARKLAWN AND GARDINER,MFDV,,,108.0,118.0,E,8394.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23814.0,507.0,Regular,Classified,Recognized route alias
+21969.0,2026-07-09,503 KINGSTON ROAD,13:44,Thursday,KING AND CHURCH,MFDV,,,104.0,111.0,,8801.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21968.0,503.0,Regular,Classified,Recognized route alias
+8998.0,2025-08-03,504 KING,19:58,Sunday,KING AND PORTLAND,MFDV,,,102.0,114.0,E,8831.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8997.0,504.0,Regular,Classified,Recognized route alias
+5951.0,2025-05-19,509 HARBOURFRONT,22:26,Monday,FLEET AND FORT YORK,MFDV,,,100.0,110.0,N,7277.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5950.0,509.0,Regular,Classified,Recognized route alias
+15716.0,2026-01-30,503 KINGSTON ROAD,22:42,Friday,KING AND YORK,MFDV,,,98.0,108.0,E,8314.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15715.0,503.0,Regular,Classified,Recognized route alias
+21093.0,2026-06-12,503 KINGSTON ROAD,12:56,Friday,RICHMOND AND UNIVERSIT,MFDV,,,89.0,95.0,E,8344.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21092.0,503.0,Regular,Classified,Recognized route alias
+10759.0,2025-09-22,503 KINGSTON ROAD,14:32,Monday,QUEEN AND BROADVIEW,MFDV,,,88.0,95.0,W,8856.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10758.0,503.0,Regular,Classified,Recognized route alias
+15417.0,2026-01-26,503 KINGSTON ROAD,18:55,Monday,QUEEN AND GREENWOOD,MFDV,,,86.0,92.0,W,8782.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15416.0,503.0,Regular,Classified,Recognized route alias
+11430.0,2025-10-12,503 KINGSTON ROAD,01:16,Sunday,QUEEN AND BROOKLYN,MFDV,,,85.0,95.0,,8155.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11429.0,503.0,Regular,Classified,Recognized route alias
+11651.0,2025-10-19,504 KING,12:59,Sunday,BROADVIEW AND GERRARD,MFDV,,,83.0,91.0,N,8647.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11650.0,504.0,Regular,Classified,Recognized route alias
+15420.0,2026-01-26,503 KINGSTON ROAD,19:50,Monday,QUEEN AND SAULTER,MFDV,,,80.0,86.0,W,3342.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15419.0,503.0,Regular,Classified,Recognized route alias
+9457.0,2025-08-15,504 KING,12:12,Friday,KING AND SACKVILLE,MFDV,,,75.0,85.0,,8634.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9456.0,504.0,Regular,Classified,Recognized route alias
+5728.0,2025-05-14,511 BATHURST,05:16,Wednesday,BATHURST AND RICHMOND,MFDV,,,74.0,79.0,W,8761.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5727.0,511.0,Regular,Classified,Recognized route alias
+18454.0,2026-04-07,506 CARLTON,21:41,Tuesday,PARLIAMENT AND GERRARD,MFDV,,,74.0,84.0,N,4474.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18453.0,506.0,Regular,Classified,Recognized route alias
+24145.0,2026-09-13,507 LONG BRANCH,21:08,Sunday,LAKESHORE AND ROYAL YO,MFDV,,,72.0,82.0,W,8353.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24144.0,507.0,Regular,Classified,Recognized route alias
+16785.0,2026-02-25,504D KING,22:23,Wednesday,KING AND SUMACH,MFDV,,,72.0,82.0,E,8776.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16784.0,504.0,Route Variant,Classified,504 branch variant
+15685.0,2026-01-30,504 KING,13:08,Friday,BROADVIEW AND DUNDAS,MFDV,,,70.0,77.0,S,8817.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15684.0,504.0,Regular,Classified,Recognized route alias
+12509.0,2025-11-10,503 KINGSTON ROAD,00:38,Monday,KING AND SHAW,MFDV,,,69.0,79.0,,8812.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12508.0,503.0,Regular,Classified,Recognized route alias
+16014.0,2026-02-05,504 KING,19:43,Thursday,BROADVIEW AND GERRARD,MFDV,,,66.0,75.0,,8866.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16013.0,504.0,Regular,Classified,Recognized route alias
+19357.0,2026-04-28,600(512 ST CLAIR),20:14,Tuesday,ST CLAIR AND DUFFERIN,MFDV,,,62.0,67.0,E,8137.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19356.0,,Unknown,Needs Review,Requires manual review
+11559.0,2025-10-16,503 KINGSTON ROAD,21:52,Thursday,KING AND FREDERICK,MFDV,,,60.0,70.0,,6623.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11558.0,503.0,Regular,Classified,Recognized route alias
+23739.0,2026-09-02,503 KINGSTON ROAD,06:53,Wednesday,KING AND BERKLEY,MFDV,,,59.0,65.0,W,8771.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23738.0,503.0,Regular,Classified,Recognized route alias
+10633.0,2025-09-18,503 KINGSTON ROAD,15:21,Thursday,SPRINGHURST LOOP,MFDV,,,58.0,68.0,,3283.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10632.0,503.0,Regular,Classified,Recognized route alias
+1295.0,2025-02-07,504 KING,07:18,Friday,DUNDAS AND RONCESVALLE,MFDV,,,58.0,68.0,,0.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1294.0,504.0,Regular,Classified,Recognized route alias
+11828.0,2025-10-24,503 KINGSTON ROAD,19:39,Friday,QUEEN AND JONES,MFDV,,,58.0,68.0,E,8760.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11827.0,503.0,Regular,Classified,Recognized route alias
+9154.0,2025-08-08,504 KING,05:19,Friday,FRONT AND TRINITY,MFDV,,,57.0,67.0,E,8643.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9153.0,504.0,Regular,Classified,Recognized route alias
+11042.0,2025-10-01,503 KINGSTON ROAD,11:15,Wednesday,QUEEN AND PAPE,MFDV,,,55.0,65.0,E,8830.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11041.0,503.0,Regular,Classified,Recognized route alias
+24174.0,2026-09-14,506 CARLTON,13:29,Monday,GERRARD AND PARLIMENT,MFDV,,,55.0,65.0,E,8358.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24173.0,506.0,Regular,Classified,Recognized route alias
+15407.0,2026-01-26,503 KINGSTON ROAD,16:44,Monday,QUEEN AND LOGAN,MFDV,,,54.0,60.0,W,8781.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15406.0,503.0,Regular,Classified,Recognized route alias
+1903.0,2025-02-16,510 SPADINA,21:27,Sunday,SPADINA AND NASSAU,MFDV,,,53.0,57.0,S,8686.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1902.0,510.0,Regular,Classified,Recognized route alias
+20228.0,2026-05-17,503 KINGSTON ROAD,19:59,Sunday,QUEEN AND COXWELL,MFDV,,,53.0,63.0,E,8647.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20227.0,503.0,Regular,Classified,Recognized route alias
+15416.0,2026-01-26,504 KING,18:49,Monday,BROADVIEW AND DUNDAS,MFDV,,,49.0,56.0,S,8683.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15415.0,504.0,Regular,Classified,Recognized route alias
+23149.0,2026-08-14,506 CARLTON,23:59,Friday,JARVIS AND WELLESLEY,MFDV,,,48.0,58.0,N,3368.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23148.0,506.0,Regular,Classified,Recognized route alias
+24743.0,2026-09-30,506 CARLTON,14:47,Wednesday,SPADINA AND HARBORD,MFDV,,,48.0,56.0,,8612.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24742.0,506.0,Regular,Classified,Recognized route alias
+16958.0,2026-03-01,504 KING - B BRANCH,23:20,Sunday,KING AND SACKVILLE,MFDV,,,46.0,54.0,E,8653.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16957.0,,Unknown,Needs Review,Requires manual review
+16918.0,2026-02-28,503 KINGSTON ROAD,01:14,Saturday,KING AND SHERBOURNE,MFDV,,,46.0,56.0,S,8768.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16917.0,503.0,Regular,Classified,Recognized route alias
+15470.0,2026-01-27,504 KING,13:53,Tuesday,BROADVIEW AND GERRARD,MFDV,,,45.0,52.0,S,8794.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15469.0,504.0,Regular,Classified,Recognized route alias
+18986.0,2026-04-20,503 KINGSTON ROAD,00:16,Monday,QUEEN AND BROADVIEW,MFDV,,,45.0,55.0,W,8828.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18985.0,503.0,Regular,Classified,Recognized route alias
+11835.0,2025-10-25,306 CARLTON,02:45,Saturday,GERRARD AND LOGAN,MFDV,,,45.0,55.0,E,9238.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11834.0,306.0,Night,Classified,Recognized night-service alias
+17338.0,2026-03-11,503 KINGSTON ROAD,15:50,Wednesday,KING AND BERKELEY,MFDV,,,43.0,49.0,W,8797.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17337.0,503.0,Regular,Classified,Recognized route alias
+15071.0,2026-01-18,504 KING,17:03,Sunday,BROADVIEW AND GERRARD,MFDV,,,43.0,51.0,N,8831.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15070.0,504.0,Regular,Classified,Recognized route alias
+9918.0,2025-08-26,506 CARLTON,14:28,Tuesday,COXWELL AND GERRARD,MFDV,,,43.0,48.0,W,8754.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9917.0,506.0,Regular,Classified,Recognized route alias
+23697.0,2026-08-31,507 LONG BRANCH,16:15,Monday,LAKE SHORE AND DWIGHT,MFDV,,,43.0,53.0,E,8172.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23696.0,507.0,Regular,Classified,Recognized route alias
+5007.0,2025-04-24,600 RAD,20:23,Thursday,QUEEN AND SPADINA,MFDV,,,42.0,52.0,W,7224.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5006.0,,RAD,Classified,RAD-related label
+5974.0,2025-05-20,504 KING,12:10,Tuesday,KING AND YONGE,MFDV,,,42.0,52.0,W,8654.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5973.0,504.0,Regular,Classified,Recognized route alias
+15692.0,2026-01-30,504 KING,14:41,Friday,BROADVIEW AND GERRARD,MFDV,,,42.0,49.0,S,6641.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15691.0,504.0,Regular,Classified,Recognized route alias
+12294.0,2025-11-04,503 KINGSTON ROAD,23:16,Tuesday,KING AND BAY,MFDV,,,41.0,52.0,W,8205.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12293.0,503.0,Regular,Classified,Recognized route alias
+18120.0,2026-03-31,503 KINGSTON ROAD,08:59,Tuesday,KING AND PRINCESS,MFDV,,,41.0,51.0,E,6690.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18119.0,503.0,Regular,Classified,Recognized route alias
+24602.0,2026-09-26,503 KINGSTON ROAD,19:56,Saturday,KING AND YORK,MFDV,,,40.0,50.0,W,8792.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24601.0,503.0,Regular,Classified,Recognized route alias
+5830.0,2025-05-16,504 KING,15:39,Friday,QUEEN AND YORK,MFDV,,,38.0,48.0,E,4452.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5829.0,504.0,Regular,Classified,Recognized route alias
+13121.0,2025-11-27,504 KING,23:48,Thursday,BROADVIEW AND GERRARD,MFDV,,,38.0,48.0,N,8629.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13120.0,504.0,Regular,Classified,Recognized route alias
+18447.0,2026-04-07,504 KING,18:32,Tuesday,BROADVIEW AND QUEEN,MFDV,,,37.0,47.0,W,8696.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,18446.0,504.0,Regular,Classified,Recognized route alias
+3553.0,2025-03-17,510 SPADINA,21:42,Monday,SPADINA AND DUNDAS,MFDV,,,37.0,47.0,S,8688.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3552.0,510.0,Regular,Classified,Recognized route alias
+20876.0,2026-06-05,503 KINGSTON ROAD,08:11,Friday,QUEEN AND BROADVIEW,MFDV,,,36.0,46.0,W,8819.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20875.0,503.0,Regular,Classified,Recognized route alias
+15043.0,2026-01-17,503 KINGSTON ROAD,18:51,Saturday,QUEEN AND HEWARD,MFDV,,,36.0,46.0,E,8830.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15042.0,503.0,Regular,Classified,Recognized route alias
+24230.0,2026-09-15,503 KINGSTON ROAD,17:55,Tuesday,KING AND CHURCH,MFDV,,,36.0,42.0,W,8791.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24229.0,503.0,Regular,Classified,Recognized route alias
+24372.0,2026-09-19,512 ST. CLAIR,19:40,Saturday,ST CLAIR AND OLD WESTO,MFDV,,,35.0,43.0,W,8588.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24371.0,512.0,Regular,Classified,Recognized route alias
+12536.0,2025-11-11,503 KINGSTON ROAD,20:25,Tuesday,QUEEN AND DEGRASSI,MFDV,,,35.0,45.0,W,8117.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12535.0,503.0,Regular,Classified,Recognized route alias
+22340.0,2026-07-21,503 KINGSTON ROAD,05:26,Tuesday,KING AND JARVIS,MFDV,,,34.0,44.0,E,8780.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22339.0,503.0,Regular,Classified,Recognized route alias
+7602.0,2025-06-26,507 LONG BRANCH (600 R,23:18,Thursday,DUFFERIN AND SPRINGHUR,MFDV,,,31.0,41.0,S,8329.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7601.0,,Unknown,Needs Review,Requires manual review
+12682.0,2025-11-15,503 KINGSTON ROAD,21:11,Saturday,QUEEN AND ALTON AVE,MFDV,,,31.0,41.0,E,8123.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12681.0,503.0,Regular,Classified,Recognized route alias
+24098.0,2026-09-12,503 KINGSTON ROAD,12:25,Saturday,KINGSTON AND MAIN,MFDV,,,31.0,38.0,W,8796.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24097.0,503.0,Regular,Classified,Recognized route alias
+23645.0,2026-08-30,306 CARLTON NIGHT,04:12,Sunday,SPADINA STATION,MFDV,,,30.0,60.0,N,8466.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23644.0,306.0,Night,Classified,Night-service label
+13635.0,2025-12-11,503 KINGSTON ROAD,08:24,Thursday,QUEEN AND LESLIE,MFDV,,,30.0,40.0,E,8808.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13634.0,503.0,Regular,Classified,Recognized route alias
+14240.0,2025-12-26,503 KINGSTON ROAD,16:08,Friday,KING AND BAY,MFDV,,,30.0,40.0,E,8662.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14239.0,503.0,Regular,Classified,Recognized route alias
+7880.0,2025-07-04,504 KING,01:45,Friday,SPRINGHURST LOOP,MFDV,,,30.0,40.0,,8179.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7879.0,504.0,Regular,Classified,Recognized route alias
+14942.0,2026-01-15,504 KING,17:53,Thursday,BROADVIEW AND SPARKHAL,MFDV,,,29.0,45.0,S,8622.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14941.0,504.0,Regular,Classified,Recognized route alias
+24478.0,2026-09-23,503 KINGSTON ROAD,10:38,Wednesday,KING AND YORK,MFDV,,,28.0,15.0,,8768.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24477.0,503.0,Regular,Classified,Recognized route alias
+19307.0,2026-04-27,504 KING,14:41,Monday,KING AND SUMACH,MFDV,,,28.0,38.0,E,8858.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19306.0,504.0,Regular,Classified,Recognized route alias
+9844.0,2025-08-24,504 KING,09:09,Sunday,QUEEN AND DAVIES,MFDV,,,28.0,38.0,E,3742.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9843.0,504.0,Regular,Classified,Recognized route alias
+15408.0,2026-01-26,504 KING,16:47,Monday,BROADVIEW AND GERRARD,MFDV,,,27.0,34.0,S,8833.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15407.0,504.0,Regular,Classified,Recognized route alias
+12366.0,2025-11-07,503 KINGSTON ROAD,06:40,Friday,KING AND JOE SHUSTER W,MFDV,,,27.0,37.0,E,3109.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12365.0,503.0,Regular,Classified,Recognized route alias
+12426.0,2025-11-08,504 KING,13:18,Saturday,BROADVIEW STATION,MFDV,,,27.0,37.0,,8691.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12425.0,504.0,Regular,Classified,Recognized route alias
+11830.0,2025-10-24,503 KINGSTON ROAD,20:29,Friday,KINGSTON AND MAIN,MFDV,,,27.0,37.0,W,3211.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11829.0,503.0,Regular,Classified,Recognized route alias
+5069.0,2025-04-26,506 CARLTON,16:42,Saturday,GERRARD AND COXWELL,MFDV,,,27.0,37.0,W,8791.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5068.0,506.0,Regular,Classified,Recognized route alias
+15413.0,2026-01-26,504 KING,18:10,Monday,BROADVIEW AND MILBROOK,MFDV,,,27.0,34.0,S,8833.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15412.0,504.0,Regular,Classified,Recognized route alias
+24697.0,2026-09-29,504 KING,10:25,Tuesday,KING AND BAY,MFDV,,,26.0,35.0,,66735.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24696.0,504.0,Regular,Classified,Recognized route alias
+15406.0,2026-01-26,504 KING,16:28,Monday,BROADVIEW STATION,MFDV,,,26.0,36.0,E,8833.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15405.0,504.0,Regular,Classified,Recognized route alias
+16056.0,2026-02-06,503 KINGSTON ROAD,22:38,Friday,KING AND CHURCH,MFDV,,,25.0,34.0,,8322.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16055.0,503.0,Regular,Classified,Recognized route alias
+24448.0,2026-09-22,501 QUEEN,13:34,Tuesday,QUEEN ST AND LISGAR ST,MFDV,,,25.0,31.0,W,7316.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24447.0,501.0,Regular,Classified,Recognized route alias
+17248.0,2026-03-09,503 KINGSTON ROAD,09:24,Monday,FRONT AND PARLIAMENT,MFDV,,,24.0,29.0,W,8625.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,17247.0,503.0,Regular,Classified,Recognized route alias
+20977.0,2026-06-08,503 KINGSTON ROAD,05:51,Monday,QUEEN AND COXWELL,MFDV,,,24.0,34.0,,8835.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20976.0,503.0,Regular,Classified,Recognized route alias
+19877.0,2026-05-09,503 KINGSTON ROAD,19:46,Saturday,BROADVIEW ANDS QUEEN,MFDV,,,23.0,32.0,W,8118.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19876.0,503.0,Regular,Classified,Recognized route alias
+19311.0,2026-04-27,504 KING,16:44,Monday,KING AND PARLIAMENT,MFDV,,,23.0,33.0,N,8760.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19310.0,504.0,Regular,Classified,Recognized route alias
+14540.0,2026-01-04,503 KINGSTON ROAD,05:57,Sunday,QUEEN AND LESLIE,MFDV,,,21.0,31.0,,8819.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14539.0,503.0,Regular,Classified,Recognized route alias
+21837.0,2026-07-04,503 KINGSTON ROAD,23:49,Saturday,KING AND PARLIAMENT,MFDV,,,21.0,31.0,E,7070.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21836.0,503.0,Regular,Classified,Recognized route alias
+19803.0,2026-05-08,503 KINGSTON ROAD,08:16,Friday,KINGSTON AND MAIN,MFDV,,,20.0,30.0,E,8118.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19802.0,503.0,Regular,Classified,Recognized route alias
+23626.0,2026-08-29,506 CARLTON,16:01,Saturday,COLLEGE AND BAY,MFDV,,,20.0,28.0,E,7330.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23625.0,506.0,Regular,Classified,Recognized route alias
+9491.0,2025-08-15,504 KING,22:35,Friday,KING AND BATHURST,MFDV,,,19.0,29.0,E,3343.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9490.0,504.0,Regular,Classified,Recognized route alias
+24696.0,2026-09-29,503 KINGSTON ROAD,10:23,Tuesday,KING AND YONGE,MFDV,,,19.0,15.0,,8708.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24695.0,503.0,Regular,Classified,Recognized route alias
+6391.0,2025-05-30,511 BATHURST,14:00,Friday,CNE LOOP,MFDV,,,18.0,28.0,,8793.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6390.0,511.0,Regular,Classified,Recognized route alias
+16297.0,2026-02-12,503 KINGSTON ROAD,15:25,Thursday,PARLIAMENT AND KING,MFDV,,,18.0,25.0,W,8116.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16296.0,503.0,Regular,Classified,Recognized route alias
+15704.0,2026-01-30,504 KING,17:56,Friday,BROADVIEW AND GERRARD,MFDV,,,18.0,25.0,S,6641.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15703.0,504.0,Regular,Classified,Recognized route alias
+16691.0,2026-02-23,504 KING,10:31,Monday,BROADVIEW AND FAIRVIEW,MFDV,,,17.0,24.0,N,8854.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16690.0,504.0,Regular,Classified,Recognized route alias
+9161.0,2025-08-08,504 KING,08:05,Friday,BROADVIEW AND QUEEN,MFDV,,,17.0,22.0,N,8541.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9160.0,504.0,Regular,Classified,Recognized route alias
+19306.0,2026-04-27,503 KINGSTON ROAD,14:30,Monday,PARLIAMENT AND KING,MFDV,,,16.0,23.0,E,3255.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19305.0,503.0,Regular,Classified,Recognized route alias
+19313.0,2026-04-27,503 KINGSTON ROAD,17:03,Monday,KING AND PARLIAMENT,MFDV,,,16.0,23.0,E,3349.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,19312.0,503.0,Regular,Classified,Recognized route alias
+12046.0,2025-10-29,503 KINGSTON ROAD,23:26,Wednesday,QUEEN AND COXWELL,MFDV,,,15.0,25.0,W,8682.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12045.0,503.0,Regular,Classified,Recognized route alias
+21802.0,2026-07-03,503 KINGSTON ROAD,23:07,Friday,KING AND GEORGE,MFDV,,,15.0,25.0,E,7220.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21801.0,503.0,Regular,Classified,Recognized route alias
+336.0,2025-01-11,510 SPADINA,10:14,Saturday,LAKESHORE AND SPADINA,MFDV,,,15.0,19.0,W,8808.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,335.0,510.0,Regular,Classified,Recognized route alias
+21469.0,2026-06-22,503 KINGSTON ROAD,12:16,Monday,QUEEN AND CARLAW,MFDV,,,14.0,24.0,E,6714.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21468.0,503.0,Regular,Classified,Recognized route alias
+15629.0,2026-01-29,504 KING,16:56,Thursday,RONCESVALLES AND GRAFT,MFDV,,,14.0,26.0,N,4519.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15628.0,504.0,Regular,Classified,Recognized route alias
+13885.0,2025-12-17,503 KINGSTON ROAD,10:33,Wednesday,KING AND PRINCESS,MFDV,,,14.0,24.0,,8763.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13884.0,503.0,Regular,Classified,Recognized route alias
+20808.0,2026-06-03,503 KINGSTON ROAD,07:07,Wednesday,BINGHAM LOOP,MFDV,,,14.0,20.0,,8743.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20807.0,503.0,Regular,Classified,Recognized route alias
+12043.0,2025-10-29,503 KINGSTON ROAD,22:45,Wednesday,KINGSTON AND BINGHAM,MFDV,,,13.0,23.0,W,8314.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12042.0,503.0,Regular,Classified,Recognized route alias
+22134.0,2026-07-14,503 KINGSTON ROAD,19:32,Tuesday,KING AND TRINITY,MFDV,,,13.0,21.0,E,8856.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22133.0,503.0,Regular,Classified,Recognized route alias
+23006.0,2026-08-11,503 KINGSTON ROAD,08:12,Tuesday,KING AND YONGE,MFDV,,,13.0,19.0,E,8707.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23005.0,503.0,Regular,Classified,Recognized route alias
+20123.0,2026-05-15,503 KINGSTON ROAD,09:58,Friday,QUEEN AND WOODGREEN,MFDV,,,12.0,22.0,W,8641.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,20122.0,503.0,Regular,Classified,Recognized route alias
+10560.0,2025-09-15,503 KINGSTON ROAD,22:17,Monday,QUEEN AND KINGSTON RD,MFDV,,,12.0,22.0,E,8695.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10559.0,503.0,Regular,Classified,Recognized route alias
+11297.0,2025-10-08,503 KINGSTON ROAD,21:40,Wednesday,KING AND JARVIS,MFDV,,,12.0,22.0,W,8682.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11296.0,503.0,Regular,Classified,Recognized route alias
+5815.0,2025-05-16,504 KING,06:47,Friday,BROADVIEW AND QUEEN,MFDV,,,11.0,17.0,N,8939.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5814.0,504.0,Regular,Classified,Recognized route alias
+22774.0,2026-08-04,503 KINGSTON ROAD,15:23,Tuesday,QUEEN AND LOGAN,MFDV,,,11.0,19.0,W,8819.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22773.0,503.0,Regular,Classified,Recognized route alias
+15620.0,2026-01-29,504 KING,14:28,Thursday,BROADVIEW AND GERRARD,MFDV,,,11.0,18.0,S,8903.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,15619.0,504.0,Regular,Classified,Recognized route alias
+1752.0,2025-02-15,510 SPADINA,16:20,Saturday,SPADINA STATION,MFDV,,,10.0,12.0,S,8789.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,1751.0,510.0,Regular,Classified,Recognized route alias
+24291.0,2026-09-17,512 ST. CLAIR,14:01,Thursday,ST CLAIR AND WESTON,MFDV,,,10.0,20.0,W,8607.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24290.0,512.0,Regular,Classified,Recognized route alias
+22769.0,2026-08-04,506 CARLTON,09:33,Tuesday,SPADINA STATION,MFDV,,,10.0,20.0,,8477.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22768.0,506.0,Regular,Classified,Recognized route alias
+22906.0,2026-08-08,507 LONG BRANCH,23:10,Saturday,PARKLAWN AND THE QUEEN,MFDV,,,10.0,20.0,,3360.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22905.0,507.0,Regular,Classified,Recognized route alias
+6957.0,2025-06-12,509 HARBOURFRONT,10:33,Thursday,QUEENS QUAY AND SPADIN,MFDV,,,10.0,20.0,E,7231.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,6956.0,509.0,Regular,Classified,Recognized route alias
+8029.0,2025-07-08,504C KING,01:28,Tuesday,KING AND SUMACH,MFDV,,,10.0,15.0,E,8794.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8028.0,504.0,Route Variant,Classified,504 branch variant
+22959.0,2026-08-10,506 CARLTON,06:55,Monday,GERRARD AND MUNRO,MFDV,,,10.0,20.0,W,8336.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22958.0,506.0,Regular,Classified,Recognized route alias
+23127.0,2026-08-14,507 LONG BRANCH,13:15,Friday,LAKESHORE AND MIMICO,MFDV,,,10.0,20.0,W,8339.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,23126.0,507.0,Regular,Classified,Recognized route alias
+13299.0,2025-12-02,504 KING,07:55,Tuesday,243 BROADVIEW AVE,MFDV,,,8.0,15.0,N,8734.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13298.0,504.0,Regular,Classified,Recognized route alias
+24514.0,2026-09-24,501 QUEEN,08:50,Thursday,QUEEN AND BEATY,MFDV,,,8.0,16.0,E,7114.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24513.0,501.0,Regular,Classified,Recognized route alias
+11464.0,2025-10-13,503 KINGSTON ROAD,22:10,Monday,KING AND BATHURST,MFDV,,,8.0,18.0,,8623.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11463.0,503.0,Regular,Classified,Recognized route alias
+24505.0,2026-09-24,600,03:49,Thursday,QUEEN ST WEST AND DOWL,MFDV,,,7.0,12.0,W,7090.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24504.0,,Other Numeric,Needs Review,Unverified numeric identifier
+21763.0,2026-07-02,503 KINGSTON ROAD,17:24,Thursday,YORK AND QUEEN,MFDV,,,7.0,14.0,W,6156.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,21762.0,503.0,Regular,Classified,Recognized route alias
+22697.0,2026-08-02,503 KINGSTON ROAD,06:19,Sunday,BROADVIEW AND QUEEN,MFDV,,,7.0,17.0,W,8854.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22696.0,503.0,Regular,Classified,Recognized route alias
+12474.0,2025-11-09,503 KINGSTON ROAD,20:53,Sunday,QUEEN AND BROADVIEW,MFDV,,,7.0,17.0,E,8353.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12473.0,503.0,Regular,Classified,Recognized route alias
+16466.0,2026-02-17,503 KINGSTON ROAD,07:24,Tuesday,QUEEN AND COXWELL,MFDV,,,6.0,12.0,W,8668.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16465.0,503.0,Regular,Classified,Recognized route alias
+16841.0,2026-02-27,503 KINGSTON ROAD,08:45,Friday,QUEEN AND BOOTH,MFDV,,,6.0,12.0,E,3339.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16840.0,503.0,Regular,Classified,Recognized route alias
+9342.0,2025-08-12,504 KING,10:26,Tuesday,KING AND YONGE,MFDV,,,6.0,11.0,W,8924.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9341.0,504.0,Regular,Classified,Recognized route alias
+10923.0,2025-09-27,503 KINGSTON ROAD,14:45,Saturday,KINGSTON ROAD AND WOOD,MFDV,,,6.0,16.0,S,8323.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10922.0,503.0,Regular,Classified,Recognized route alias
+16009.0,2026-02-05,503 KINGSTON ROAD,08:31,Thursday,KING AND SHERBOURNE,MFDV,,,6.0,12.0,,8855.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,16008.0,503.0,Regular,Classified,Recognized route alias
+12768.0,2025-11-18,503 KINGSTON ROAD,08:32,Tuesday,BAY AND KING,MFDV,,,5.0,10.0,,8747.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12767.0,503.0,Regular,Classified,Recognized route alias
+2845.0,2025-02-26,999 (505 DUNDAS),16:04,Wednesday,RIVER AND DUNDAS,MFDV,,,0.0,0.0,S,8674.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,2844.0,,Unknown,Needs Review,Requires manual review
+12451.0,2025-11-09,503 KINGSTON ROAD,05:36,Sunday,KING AND DUFFERIN,MFDV,,,0.0,0.0,W,8693.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12450.0,503.0,Regular,Classified,Recognized route alias
+12323.0,2025-11-05,504 KING,21:18,Wednesday,PARLIAMENT AND FRONT,MFDV,,,0.0,0.0,W,8752.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12322.0,504.0,Regular,Classified,Recognized route alias
+11883.0,2025-10-25,506 CARLTON,15:36,Saturday,GERRARD AND LOGAN,MFDV,,,0.0,0.0,E,3554.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,11882.0,506.0,Regular,Classified,Recognized route alias
+10710.0,2025-09-21,510 SPADINA,05:51,Sunday,SPADINA AND FRONT,MFDV,,,0.0,0.0,W,8378.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,10709.0,510.0,Regular,Classified,Recognized route alias
+9610.0,2025-08-19,506 CARLTON,06:14,Tuesday,MAIN STREET STATION,MFDV,,,0.0,0.0,,8754.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,9609.0,506.0,Regular,Classified,Recognized route alias
+5766.0,2025-05-15,511 BATHURST,05:47,Thursday,KING AND PORTLAND,MFDV,,,0.0,0.0,N,8820.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,5765.0,511.0,Regular,Classified,Recognized route alias
+7039.0,2025-06-14,509 HARBOURFRONT,06:50,Saturday,LAKESHORE AND STRACHAN,MFDV,,,0.0,0.0,,7223.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,7038.0,509.0,Regular,Classified,Recognized route alias
+8093.0,2025-07-10,504 KING,16:17,Thursday,YONGE AND MELINDA,MFDV,,,0.0,0.0,S,8652.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,8092.0,504.0,Regular,Classified,Recognized route alias
+4991.0,2025-04-24,501 QUEEN,12:26,Thursday,QUEEN AND UNIVERSITY,MFDV,,,0.0,0.0,,3644.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,4990.0,501.0,Regular,Classified,Recognized route alias
+3157.0,2025-03-06,509 HARBOURFRONT,06:57,Thursday,FORT YORK AND BATHURST,MFDV,,,0.0,0.0,E,3726.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,3156.0,509.0,Regular,Classified,Recognized route alias
+13639.0,2025-12-11,503 KINGSTON ROAD,13:19,Thursday,PARLIAMENT AND ADELAID,MFDV,,,0.0,0.0,,8650.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,13638.0,503.0,Regular,Classified,Recognized route alias
+14524.0,2026-01-03,503 KINGSTON ROAD,22:15,Saturday,QUEEN AND CARLAW,MFDV,,,0.0,0.0,W,8644.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,14523.0,503.0,Regular,Classified,Recognized route alias
+12568.0,2025-11-12,504 KING,17:51,Wednesday,DUNDAS AND BROADVIEW,MFDV,,,0.0,0.0,W,8625.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,12567.0,504.0,Regular,Classified,Recognized route alias
+22671.0,2026-08-01,503 KINGSTON ROAD,15:14,Saturday,QUEEN AND RIVER,MFDV,,,0.0,0.0,W,6724.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,22670.0,503.0,Regular,Classified,Recognized route alias
+24105.0,2026-09-12,506 CARLTON,15:57,Saturday,WELLESLEY AND YONGE,MFDV,,,0.0,0.0,,3280.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24104.0,506.0,Regular,Classified,Recognized route alias
+24625.0,2026-09-27,506 CARLTON,07:04,Sunday,BLOOR AND SPADINA,MFDV,,,0.0,0.0,,8327.0,Recent,TTC Streetcar Delay Data since 2025.xml,XML,24624.0,506.0,Regular,Classified,Recognized route alias

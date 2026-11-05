@@ -1,0 +1,364 @@
+Original_Route,Record_Count,Percentage,Route_Code,Service_Type,Mapping_Status,Notes
+501,34873,20.28,501,Regular,Classified,Standard route number
+504,25994,15.11,504,Regular,Classified,Standard route number
+506,18595,10.81,506,Regular,Classified,Standard route number
+505,16604,9.65,505,Regular,Classified,Standard route number
+510,10952,6.37,510,Regular,Classified,Standard route number
+512,10053,5.85,512,Regular,Classified,Standard route number
+511,7131,4.15,511,Regular,Classified,Standard route number
+509,4831,2.81,509,Regular,Classified,Standard route number
+504 KING,4246,2.47,504,Regular,Classified,Recognized route alias
+501 QUEEN,4197,2.44,501,Regular,Classified,Recognized route alias
+503,3446,2.0,503,Regular,Classified,Standard route number
+505 DUNDAS,3363,1.96,505,Regular,Classified,Recognized route alias
+506 CARLTON,3103,1.8,506,Regular,Classified,Recognized route alias
+503 KINGSTON ROAD,1869,1.09,503,Regular,Classified,Recognized route alias
+510 SPADINA,1826,1.06,510,Regular,Classified,Recognized route alias
+512 ST. CLAIR,1702,0.99,512,Regular,Classified,Recognized route alias
+502,1587,0.92,502,Regular,Classified,Standard route number
+301,1587,0.92,301,Night,Classified,Night route number
+501.0,1580,0.92,501,Regular,Classified,Standard route number
+514,1503,0.87,514,Regular,Classified,Standard route number
+511 BATHURST,1090,0.63,511,Regular,Classified,Recognized route alias
+504.0,1045,0.61,504,Regular,Classified,Standard route number
+506.0,910,0.53,506,Regular,Classified,Standard route number
+507 LONG BRANCH,858,0.5,507,Regular,Classified,Recognized route alias
+MISSING,815,0.47,,Unknown,Needs Review,Missing route label
+306,723,0.42,306,Night,Classified,Night route number
+510.0,679,0.39,510,Regular,Classified,Standard route number
+505.0,671,0.39,505,Regular,Classified,Standard route number
+509 HARBOURFRONT,629,0.37,509,Regular,Classified,Recognized route alias
+507,497,0.29,507,Regular,Classified,Standard route number
+304,454,0.26,304,Night,Classified,Night route number
+512.0,351,0.2,512,Regular,Classified,Standard route number
+511.0,320,0.19,511,Regular,Classified,Standard route number
+705,311,0.18,,Other Numeric,Needs Review,Unverified numeric identifier
+508,295,0.17,508,Regular,Classified,Standard route number
+301 QUEEN NIGHT,286,0.17,301,Night,Classified,Night-service label
+310,188,0.11,310,Night,Classified,Night route number
+805,183,0.11,,Other Numeric,Needs Review,Unverified numeric identifier
+306 CARLTON NIGHT,174,0.1,306,Night,Classified,Night-service label
+509.0,173,0.1,509,Regular,Classified,Standard route number
+304 KING NIGHT,162,0.09,304,Night,Classified,Night-service label
+500,153,0.09,,Other Numeric,Needs Review,Unverified numeric identifier
+600,151,0.09,,Other Numeric,Needs Review,Unverified numeric identifier
+305 DUNDAS NIGHT,143,0.08,305,Night,Classified,Night-service label
+999,130,0.08,,Other Numeric,Needs Review,Unverified numeric identifier
+503.0,121,0.07,503,Regular,Classified,Standard route number
+508 LAKESHORE,108,0.06,508,Regular,Classified,Recognized route alias
+555,90,0.05,,Other Numeric,Needs Review,Unverified numeric identifier
+301.0,75,0.04,301,Night,Classified,Night route number
+RAD,75,0.04,,RAD,Classified,RAD-related label
+310 SPADINA NIGHT,57,0.03,310,Night,Classified,Night-service label
+50,48,0.03,,Other Numeric,Needs Review,Unverified numeric identifier
+535,41,0.02,,Other Numeric,Needs Review,Unverified numeric identifier
+317,37,0.02,,Other Numeric,Needs Review,Unverified numeric identifier
+305 DUNDAS,33,0.02,305,Night,Classified,Recognized night-service alias
+312 ST. CLAIR NIGHT,32,0.02,312,Night,Classified,Night-service label
+513,27,0.02,,Other Numeric,Needs Review,Unverified numeric identifier
+303 KINGSTON ROAD NIGH,27,0.02,303,Night,Classified,Recognized night-service alias
+51,24,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+1,24,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+306.0,22,0.01,306,Night,Classified,Night route number
+555.0,22,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+5,20,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+807,20,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+304.0,18,0.01,304,Night,Classified,Night route number
+305,18,0.01,305,Night,Classified,Night route number
+OTC,14,0.01,,Operational,Classified,Operational label
+310.0,13,0.01,310,Night,Classified,Night route number
+303,13,0.01,303,Night,Classified,Night route number
+600 RAD,13,0.01,,RAD,Classified,RAD-related label
+500.0,12,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+705 RAD,12,0.01,,RAD,Classified,RAD-related label
+4,10,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+11,10,0.01,,Other Numeric,Needs Review,Unverified numeric identifier
+512 ST CLAIR,10,0.01,512,Regular,Classified,Recognized route alias
+303 KINGSTON ROAD,9,0.01,303,Night,Classified,Recognized night-service alias
+8,8,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+201,8,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+3,8,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+306 CARLTON,8,0.0,306,Night,Classified,Recognized night-service alias
+54,7,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+301 QUEEN,7,0.0,301,Night,Classified,Recognized night-service alias
+25,6,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+16,6,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+312,6,0.0,312,Night,Classified,Night route number
+504B KING,6,0.0,504,Route Variant,Classified,504 branch variant
+2,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+35,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+9,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+7,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+536,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+56,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+26,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+715,5,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+303 KINGSTON RD,5,0.0,303,Night,Classified,Recognized night-service alias
+304 KING,5,0.0,304,Night,Classified,Recognized night-service alias
+17,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+12,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+41,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+6,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+32,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+899,4,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+BD,4,0.0,,Unknown,Needs Review,Requires manual review
+504A KING,4,0.0,504,Route Variant,Classified,504 branch variant
+310 SPADINA,4,0.0,310,Night,Classified,Recognized night-service alias
+506 CARLTON (RAD),4,0.0,,RAD,Classified,RAD-related label
+401,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+111,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+18,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+62,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+20,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+63,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+65,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+33,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+24,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+550,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+10,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+37,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+22,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+14,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+15,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+55,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+29,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+591,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+52,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+300,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+705.0,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+999.0,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+600.0,3,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+YU,3,0.0,,Unknown,Needs Review,Requires manual review
+905,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+23,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+210,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+21,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+49,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+40,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+45,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+83,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+43,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+19,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+516,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+30,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+87,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+28,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+85,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+53,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+605,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+TEST CAR,2,0.0,,Operational,Classified,Operational label
+47,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+5014,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+5101,2,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+RAD 600,2,0.0,,RAD,Classified,RAD-related label
+505 DUNDAS (RAD),2,0.0,,RAD,Classified,RAD-related label
+OTC CAR,2,0.0,,Operational,Classified,Operational label
+7 BATHURST,2,0.0,,Unknown,Needs Review,Requires manual review
+507 LONG BRANCH (600 R,2,0.0,,Unknown,Needs Review,Requires manual review
+504D KING,2,0.0,504,Route Variant,Classified,504 branch variant
+CNE EXTRA,2,0.0,,Operational,Classified,Operational label
+504 KING (A-BRANCH),2,0.0,504,Route Variant,Classified,504 branch variant
+STORM CAR,2,0.0,,Operational,Classified,Operational label
+301 OVERHEAD CREW,2,0.0,,Operational,Classified,Operational label
+511 BATHURST (600),2,0.0,,Unknown,Needs Review,Requires manual review
+500 RAD,2,0.0,,RAD,Classified,RAD-related label
+311,2,0.0,311,Night,Classified,Night route number
+309 HARBOURFRONT,2,0.0,309,Night,Classified,Recognized night-service alias
+311 BATHURST,2,0.0,311,Night,Classified,Recognized night-service alias
+57,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+405,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+68,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+204,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+375,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+804,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+93,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+205,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+13,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+81,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+519,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+830,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+61,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+80,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+595,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+596,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+64,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+60,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+594,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+86,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+403,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+31,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+701,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+451,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+91,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+89,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+307,1,0.0,307,Night,Classified,Night route number
+42,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+165,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+122,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+130,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+185,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+105,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+76,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+150,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+72,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+96,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+320,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+615,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+70,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+312.0,1,0.0,312,Night,Classified,Night route number
+707.0,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+(RAD,1,0.0,,RAD,Classified,RAD-related label
+88,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+960,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+STORM,1,0.0,,Operational,Classified,Operational label
+5204,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+540,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+TEST,1,0.0,,Operational,Classified,Operational label
+RUN,1,0.0,,Unknown,Needs Review,Requires manual review
+202,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+503 KINGSTON ROAD (60,1,0.0,,Unknown,Needs Review,Requires manual review
+RAD 506,1,0.0,,RAD,Classified,RAD-related label
+"501 QUEEN, ( 600",1,0.0,,Unknown,Needs Review,Requires manual review
+525,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+700,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+801,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+LINE 1,1,0.0,,Unknown,Needs Review,Requires manual review
+5063,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+5004,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+133,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+44,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+131 NUGGET,1,0.0,,Unknown,Needs Review,Requires manual review
+129 MCCOWAN NORTH,1,0.0,,Unknown,Needs Review,Requires manual review
+507 SHUTTLE,1,0.0,,Shuttle,Classified,Shuttle or bus service
+504 KING RAD CAR,1,0.0,,RAD,Classified,RAD-related label
+600 RAD 504,1,0.0,,RAD,Classified,RAD-related label
+TRAINING VEHICLE,1,0.0,,Operational,Classified,Operational label
+505 DUNDAS  (RAD BUS),1,0.0,,RAD,Classified,RAD-related label
+504 AKING,1,0.0,,Unknown,Needs Review,Requires manual review
+999 (505 DUNDAS),1,0.0,,Unknown,Needs Review,Requires manual review
+"600RAD, 504",1,0.0,,RAD,Classified,RAD-related label
+5003,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+600/506 CARLTON,1,0.0,,Unknown,Needs Review,Requires manual review
+S,1,0.0,,Unknown,Needs Review,Requires manual review
+STORM CAR - 505,1,0.0,,Operational,Classified,Operational label
+504 KING- 600,1,0.0,,Unknown,Needs Review,Requires manual review
+303 KINGSTOM,1,0.0,303,Night,Classified,Recognized night-service alias
+305 NIGHT CAR,1,0.0,305,Night,Classified,Night-service label
+512`,1,0.0,,Unknown,Needs Review,Requires manual review
+600 RAD ON 512 ST CLAI,1,0.0,,RAD,Classified,RAD-related label
+600 RAD 512,1,0.0,,RAD,Classified,RAD-related label
+506 CARLTON  (RAD),1,0.0,,RAD,Classified,RAD-related label
+501 QUEEN - RAD,1,0.0,,RAD,Classified,RAD-related label
+600 RAD VEHICLE,1,0.0,,RAD,Classified,RAD-related label
+501 (RAD),1,0.0,,RAD,Classified,RAD-related label
+504 KING (PRIVATE),1,0.0,,Operational,Classified,Operational label
+A410,1,0.0,,Unknown,Needs Review,Requires manual review
+504 KING SHUTTLE,1,0.0,,Shuttle,Classified,Shuttle or bus service
+504 KING - SHUTTLE BUS,1,0.0,,Shuttle,Classified,Shuttle or bus service
+509 HARBOURFRONT (RADI,1,0.0,,RAD,Classified,RAD-related label
+504 KING SHUTTLE BUS,1,0.0,,Shuttle,Classified,Shuttle or bus service
+501 LAKESHORE,1,0.0,,Unknown,Needs Review,Requires manual review
+96 WILSON,1,0.0,,Unknown,Needs Review,Requires manual review
+4404,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+600 (OPERATING AS 503,1,0.0,,Operational,Classified,Operational label
+EXTRA,1,0.0,,Operational,Classified,Operational label
+900,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+507 LONG BRANCH EXTRA,1,0.0,,Operational,Classified,Operational label
+514 CHERRY,1,0.0,514,Regular,Classified,Recognized route alias
+504C KING,1,0.0,504,Route Variant,Classified,504 branch variant
+500 (512 ST CLAIR),1,0.0,,Unknown,Needs Review,Requires manual review
+504D/C KING,1,0.0,504,Route Variant,Classified,504 branch variant
+929 DUFFERIN EXPRESS,1,0.0,,Unknown,Needs Review,Requires manual review
+TRACK 2 - SWITCH 130,1,0.0,,Operational,Classified,Operational label
+TRACK 11,1,0.0,,Operational,Classified,Operational label
+555 (505 DUNDAS),1,0.0,,Unknown,Needs Review,Requires manual review
+CHO,1,0.0,,Unknown,Needs Review,Requires manual review
+502 DOWNTOWNER,1,0.0,,Unknown,Needs Review,Requires manual review
+600 RAD (510 SPADINA),1,0.0,,RAD,Classified,RAD-related label
+600 SHUTTLE,1,0.0,,Shuttle,Classified,Shuttle or bus service
+CARHOUSE,1,0.0,,Operational,Classified,Operational label
+600 (RAD),1,0.0,,RAD,Classified,RAD-related label
+509 HARBOUR FRONT,1,0.0,509,Regular,Classified,Recognized route alias
+69,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+RAD - 506 CARLTON,1,0.0,,RAD,Classified,RAD-related label
+FLEET VEHICLE - A,1,0.0,,Operational,Classified,Operational label
+507 LONG BRANCH (OTC),1,0.0,,Operational,Classified,Operational label
+505 RAD STREETCAR,1,0.0,,RAD,Classified,RAD-related label
+39 FINCH EAST,1,0.0,,Unknown,Needs Review,Requires manual review
+505 DUNDAS (NO RUN - R,1,0.0,,Unknown,Needs Review,Requires manual review
+TRACK 7E,1,0.0,,Operational,Classified,Operational label
+506 CARLTON - RAD BUS,1,0.0,,RAD,Classified,RAD-related label
+506RAD,1,0.0,,RAD,Classified,RAD-related label
+EXTRA CAR,1,0.0,,Operational,Classified,Operational label
+506 CARLTON - 600 RAD,1,0.0,,RAD,Classified,RAD-related label
+RUN IN,1,0.0,,Operational,Classified,Operational label
+303 OVERHEAD,1,0.0,,Operational,Classified,Operational label
+831 STREETCAR WAY,1,0.0,,Unknown,Needs Review,Requires manual review
+600 RAD (512 ROUTE),1,0.0,,RAD,Classified,RAD-related label
+512 ST. CLAIR (RAD BUS,1,0.0,,RAD,Classified,RAD-related label
+503 LONG BRANCH,1,0.0,,Unknown,Needs Review,Requires manual review
+939 FINCH EXPRESS,1,0.0,,Unknown,Needs Review,Requires manual review
+RUN IN CAR,1,0.0,,Operational,Classified,Operational label
+506 CARLTON - RAD,1,0.0,,RAD,Classified,RAD-related label
+503 KINGSTON ROAD - BU,1,0.0,,Unknown,Needs Review,Requires manual review
+600 STORM CAR,1,0.0,,Operational,Classified,Operational label
+503 KINGSOTN ROAD,1,0.0,,Unknown,Needs Review,Requires manual review
+600 - STORM CAR,1,0.0,,Operational,Classified,Operational label
+504 KING - B BRANCH,1,0.0,,Unknown,Needs Review,Requires manual review
+STORM STREETCAR,1,0.0,,Operational,Classified,Operational label
+600(506),1,0.0,,Unknown,Needs Review,Requires manual review
+600 SERIES (506 CARLTO,1,0.0,,Unknown,Needs Review,Requires manual review
+600 (506 CARLTON),1,0.0,,Unknown,Needs Review,Requires manual review
+600 (511 BATHURST),1,0.0,,Unknown,Needs Review,Requires manual review
+OTC - 501 QUEEN,1,0.0,,Operational,Classified,Operational label
+600 - 506 CARLTON,1,0.0,,Unknown,Needs Review,Requires manual review
+511 BATHURST (600 RAD),1,0.0,,RAD,Classified,RAD-related label
+506 CARLTON (600),1,0.0,,Unknown,Needs Review,Requires manual review
+511 BATHURST (600 SERI,1,0.0,,Unknown,Needs Review,Requires manual review
+705 LONG BRANCH,1,0.0,,Unknown,Needs Review,Requires manual review
+508 LAKESHORE (600 SER,1,0.0,,Unknown,Needs Review,Requires manual review
+600 (509 HARBOURFRONT),1,0.0,,Unknown,Needs Review,Requires manual review
+600 - QUEENSWAY GARAGE,1,0.0,,Operational,Classified,Operational label
+RAD (510 SPADINA),1,0.0,,RAD,Classified,RAD-related label
+5111,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+510 SPADINA (RUN-IN-RA,1,0.0,,Operational,Classified,Operational label
+503 KINGSTON RD,1,0.0,503,Regular,Classified,Recognized route alias
+600 - RAD,1,0.0,,RAD,Classified,RAD-related label
+506 CARLTON RAD,1,0.0,,RAD,Classified,RAD-related label
+600(512 ST CLAIR),1,0.0,,Unknown,Needs Review,Requires manual review
+72652,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+RAD - 504 KING,1,0.0,,RAD,Classified,RAD-related label
+509 HARBOURFRONT (RAD,1,0.0,,RAD,Classified,RAD-related label
+OVERHEAD,1,0.0,,Operational,Classified,Operational label
+500 - RAD,1,0.0,,RAD,Classified,RAD-related label
+600 (510 SPADINA),1,0.0,,Unknown,Needs Review,Requires manual review
+5047,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+508 KING,1,0.0,,Unknown,Needs Review,Requires manual review
+RAD CAR ON #501,1,0.0,,RAD,Classified,RAD-related label
+501 QUEEN (600),1,0.0,,Unknown,Needs Review,Requires manual review
+600- 507 ROUTE,1,0.0,,Unknown,Needs Review,Requires manual review
+RAD - #507,1,0.0,,RAD,Classified,RAD-related label
+RAD CAR - DOING #501,1,0.0,,RAD,Classified,RAD-related label
+555 (507 RAD),1,0.0,,RAD,Classified,RAD-related label
+507 LONG BRANCH - 500,1,0.0,,Unknown,Needs Review,Requires manual review
+75 SHERBOURNE,1,0.0,,Unknown,Needs Review,Requires manual review
+335 JANE,1,0.0,,Unknown,Needs Review,Requires manual review
+CSR B#T010165,1,0.0,,Unknown,Needs Review,Requires manual review
+504 KING (B-BRANCH),1,0.0,504,Route Variant,Classified,504 branch variant
+EXHIBITION LOOP,1,0.0,,Unknown,Needs Review,Requires manual review
+FLEET TRUCK,1,0.0,,Operational,Classified,Operational label
+510 SPADINA -,1,0.0,,Unknown,Needs Review,Requires manual review
+509 HARBOURFRONT (RAD),1,0.0,,RAD,Classified,RAD-related label
+512 ST. CLAIR ( RAD),1,0.0,,RAD,Classified,RAD-related label
+114,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+600RAD,1,0.0,,RAD,Classified,RAD-related label
+501 QUEEN - RAD VEHICL,1,0.0,,RAD,Classified,RAD-related label
+899 TRAINING ROUTE,1,0.0,,Operational,Classified,Operational label
+706,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+5040,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+669 RAD,1,0.0,,RAD,Classified,RAD-related label
+929,1,0.0,,Other Numeric,Needs Review,Unverified numeric identifier
+504 KING- RAD,1,0.0,,RAD,Classified,RAD-related label
+RAD CAR,1,0.0,,RAD,Classified,RAD-related label
+501 QUEEN (RAD),1,0.0,,RAD,Classified,RAD-related label
+501 QUEEN REPLACEMENT,1,0.0,,Unknown,Needs Review,Requires manual review
