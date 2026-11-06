@@ -18,7 +18,7 @@ The project focuses on understanding how streetcar delays vary across routes, ti
 - Automate data cleaning, standardization, and aggregation using Python.
 
 ## Data Source
-The dataset was obtained from the [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/)
+The dataset was retrieved from the [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/) on October 30, 2026.
 
 ## Tools & Technologies
 - **Python:** Data processing and automation.
