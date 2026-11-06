@@ -1,4 +1,7 @@
 # TTC Streetcar Delay Analysis
+
+[**View Interactive Excel Dashboard**](https://1drv.ms/x/c/78c4ba6e3d574ffb/IQAMyqIRZjvqTYU0C2NCeE97AXMVOSdWMNohpfhDTTPd4oQ?e=gcMY4w)
+
 ## Overview
 This project analyzes historical Toronto Transit Commission (TTC) streetcar delay records from 2014 to 2026 to examine service reliability, identify delay patterns, and investigate potential operational bottlenecks.
 
